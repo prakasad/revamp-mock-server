@@ -1,1 +1,91 @@
-{"playables":[{"old":null,"new":{"type":120,"cas_val":40693446961064790,"id":"994907131567538352","children":[],"createdBy":"41739275bd2ffbf0","createdAt":1526039319,"updatedAt":1526039319,"gameId":"994898598984983717","cloneParent":null,"staticNode":{"id":"994907131562764812","type":240,"obj":{"type":240,"cas_val":4234543279840634,"id":"994907131562764812","createdAt":1526039319,"updatedAt":1526039319,"allowSkip":true,"allowComments":false,"remidiations":[],"guidance":{},"guidanceEnabled":false}},"unlockStrategy":0,"evaluationType":"ASSESSMENT","displayIndex":null,"media":null,"allowSkip":true,"showFacto":false,"facto":[],"contentScoring":true,"maxScore":500,"quesText":"","subType":null,"mandatory":true,"allowNA":null,"defaultMaxWrong":0}},{"old":"994899825929172230","new":{"type":42,"cas_val":7515312325215557,"id":"994899825929172230","children":[{"id":"994899474811182203","dependOn":[]},{"id":"994899825842317282","dependOn":[]},{"id":"994907131567538352","dependOn":[]}],"createdBy":"41739275bd2ffbf0","createdAt":1526037577,"updatedAt":1526039319,"gameId":"994898598984983717","cloneParent":"994899386383647347","staticNode":{"id":"994899386379947629","type":212,"obj":{"type":212,"cas_val":4232715439715753,"id":"994899386379947629","createdAt":1526037472,"updatedAt":1526037491,"name":"Section two","survey":[]}},"unlockStrategy":0,"evaluationType":"ASSESSMENT","name":"Section two","desc":null,"randomize":0,"posX":0,"posY":0,"displayIndex":null,"survey":[]}}]}
+{
+  "playables": [
+    {
+      "old": "a123",
+      "new": {
+        "type": 120,
+        "id": "a123",
+        "children": [],
+        "createdBy": "41739275bd2ffbf0",
+        "createdAt": 1526016201,
+        "updatedAt": 1526039319,
+        "gameId": "g123",
+        "staticNode": {
+          "id": "as123",
+          "type": 240,
+          "obj": {
+            "createdAt": 1526016201,
+            "name": "",
+            "updatedAt": 1526016201,
+            "desc": "",
+            "staticVersion": 1,
+            "gameId": "g123",
+            "companyId": "699221192801769576",
+            "type": 40,
+            "id": "as123",
+            "targetLength": 120
+          }
+        },
+        "pptUploadByAdmin": true,
+        "pptMedia": {
+          "id": "994916734884787715",
+          "title": "samplepptx.pptx",
+          "type": 94,
+          "obj": {
+            "type": 94,
+            "cas_val": 4236833175261927,
+            "id": "994916734884787715",
+            "status": 2,
+            "title": "samplepptx.pptx",
+            "uploadedById": "41739275bd2ffbf0",
+            "uploadedAt": 1526041609,
+            "companyId": "683898119375555483",
+            "size": 413895,
+            "contentParts": 0,
+            "original_path": "https://cf-ap1.mindtickle.com/683898119375555483/1526041607421samplepptx.pptx?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2YtYXAxLm1pbmR0aWNrbGUuY29tLzY4Mzg5ODExOTM3NTU1NTQ4My8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNTI2MDU2MDExfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9LCJEYXRlR3JlYXRlclRoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTQ0NDk3NzExNn19fV19&Signature=EGToFVd9-eBxiy4Vmct-E8eprxNSo2ct03nVLB~JsCrL0nx5BH8Q5PYuUYPCWSDvSg0gB2~jH~qRvDTeEqMOWKJReLW-qFaA-iLuoL2DHBRQweugDyP3UjdDtaf9UcAVkJ850Ophj7mV0PoqpgbVZTBqbVA6Z1QcK6WYXd-GCIA_&Key-Pair-Id=APKAJRHSQBGT5CW7P2CA",
+            "expiry": 1526056011,
+            "providerSource": "_default",
+            "providerSourceId": null,
+            "uuid": "//mediaplayer.mindtickle.com/crocodoc/?data=bnVsbCMx&sig=6fDMVT6%2BO2OwPeWp%2FPAs0YoVZYc%3D&time=1526056011",
+            "uuid_filestack": null,
+            "urls": {
+              "thumb": "//s3-ap-southeast-1.amazonaws.com/mtdocs-box-processed/994916734884787715/images/thumbnail-master-0.png?AWSAccessKeyId=AKIAJ2TLVSVBCUIOVRPA&Expires=1526056011&Signature=U9zPhrNlOdbfWmT4AfAzqwTFyzM%3D",
+              "pdf": "//s3-ap-southeast-1.amazonaws.com/mtdocs-box-processed/994916734884787715/doc.pdf?AWSAccessKeyId=AKIAJ2TLVSVBCUIOVRPA&Expires=1526056011&Signature=cJyKbe6NkTOD6jLaN%2F1yvvfS4KA%3D"
+            },
+            "imagifiedStatus": "IMAGIFIED_NOT_STARTED",
+            "imagifyStatusLastUpdated": 1526041608
+          }
+        }
+      }
+    },
+    {
+      "old": "ac123",
+      "new": {
+        "type": 42,
+        "id": "ac123",
+        "children": [
+          {
+            "id": "a123",
+            "dependOn": []
+          }
+        ],
+        "createdBy": "41739275bd2ffbf0",
+        "createdAt": 1526037577,
+        "updatedAt": 1526039319,
+        "gameId": "g123",
+        "staticNode": {
+          "id": "acs123",
+          "type": 212,
+          "obj": {
+            "type": 212,
+            "id": "acs123",
+            "createdAt": 1526037472,
+            "updatedAt": 1526037491,
+            "name": null,
+            "desc": null
+          }
+        }
+      }
+    }
+  ]
+}
