@@ -1,0 +1,13 @@
+{
+  "validation": {
+    "success": {
+      "counter": 9
+    },
+    "tunnel-latest": {
+      "counter": 4
+    },
+    "tunnel-latest.json": {
+      "counter": 4
+    }
+  }
+}
