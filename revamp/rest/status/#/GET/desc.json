@@ -1,0 +1,12 @@
+{
+  "desc": "Status call of the content engine mock server",
+  "security": [],
+  "protected": false,
+  "status": "",
+  "response": {
+    "statusCode": 200,
+    "schema": {
+      "type": "application/json"
+    }
+  }
+}
