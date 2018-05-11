@@ -1,11 +1,11 @@
-## To Launch the Server And start adding Mock Urls
+## To launch mock server
 ```shell
 git clone git@github.com:prakasad/revamp-mock-server.git
 cd node-mock-server
 npm install
 node revamp
 
-To see some example how to add routes execute below
+To check some examples on adding routes:
 node demo
 
 Refer below note for more info on how to use the node-mock-server
