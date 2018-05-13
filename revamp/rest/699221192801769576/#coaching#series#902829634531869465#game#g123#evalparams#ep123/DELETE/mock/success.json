@@ -1,0 +1,43 @@
+{
+  "playables": [
+    {
+      "old": "ep213",
+      "new": null
+    },
+    {
+      "old": null,
+      "new": {
+        "id": "s123",
+        "dependOn": [],
+        "obj": {
+          "isPublished": false,
+          "children": [
+            {
+              "id": "ep456",
+              "dependOn": []
+            }
+          ],
+          "createdBy": "41739275bd2ffbf0",
+          "createdAt": "1526016201",
+          "updatedAt": "1526016201",
+          "gameId": "g123",
+          "cloneParent": null,
+          "staticNode": {
+            "id": "ss123",
+            "type": 210,
+            "obj": {
+              "type": 210,
+              "id": "ss123",
+              "createdAt": 1526037472,
+              "updatedAt": 1526037491,
+              "name": "Section three",
+              "desc": null
+            }
+          },
+          "unlockStrategy": 0,
+          "evaluationType": "ASSESSMENT"
+        }
+      }
+    }
+  ]
+}
