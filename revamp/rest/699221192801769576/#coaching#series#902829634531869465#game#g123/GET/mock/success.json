@@ -4,9 +4,9 @@
     "mtentityType": 200,
     "name": "Key Messages",
     "desc": "Dr Tan is a general practitionar",
-    "createdBy": "4194e f2d43d7df97",
+    "createdBy": "4194ef2d43d7df97",
     "creationTime": 1526037577,
-    "state_value": "*",
+    "state_value": "2",
     "thumbObj": {
       "type": 81,
       "object": "932804160147584819",
@@ -32,20 +32,26 @@
       }
     ],
     "docs": {},
-    "due date and reminders": "*",
     "reviewer": {
-      "canEditReview": "*",
-      "allowOverallFeedback": "*",
-      "canAskForReattempt": "*",
-      "assignmentRules": "*"
+      "canEditReview": true,
+      "allowOverallFeedback": true,
+      "canAskForReattempt": false,
+      "assignmentRules": [
+        {
+          "REVIEWER_1": {
+            "type": "ADHOC",
+            "value": null
+          }
+        }
+      ]
     },
     "transcriptionEnabled": "TRUE",
     "learner": {
-      "canReattempt": "*"
+      "canReattempt": false
     },
     "topSubmission": {
       "displayCriteria": "AFTER_SUBMISSION",
-      "selectionCriteria": "*",
+      "selectionCriteria": {},
       "cutoff": 600
     }
   },
@@ -58,15 +64,15 @@
     "scoring": {
       "cutoffScore": 3,
       "criteria": {
-        "allParameters": []
+        "allParameters": true
       }
     },
     "certificate": {
       "score": 40,
       "enabled": true,
       "validity": {
-        "value": "*",
-        "notify": "*"
+        "value": -1,
+        "notify": ""
       }
     },
     "autoRedo": true
