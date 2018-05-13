@@ -1,0 +1,154 @@
+{
+  "gameStatic": {
+    "type": 21,
+    "mtentityType": 200,
+    "name": "Key Messages",
+    "desc": "Dr Tan is a general practitionar",
+    "createdBy": "4194e f2d43d7df97",
+    "creationTime": 1526037577,
+    "state_value": "*",
+    "thumbObj": {
+      "type": 81,
+      "object": "932804160147584819",
+      "title": "Pitch Perfect"
+    },
+    "defaultThumbObj": {
+      "type": 81,
+      "object": "THUMB_MISSION3",
+      "title": ""
+    },
+    "companyId": "699221192801769576",
+    "dueDate": {
+      "dueDateType": "SPECIFIC_DATE",
+      "value": 1524583800,
+      "dueDateExpiryAction": "NONE"
+    },
+    "lastPublishedVersion": 0,
+    "parentList": [
+      {
+        "series": "902829634531869465",
+        "displayOrder": 1523522054,
+        "milestones": []
+      }
+    ],
+    "docs": {},
+    "due date and reminders": "*",
+    "reviewer": {
+      "canEditReview": "*",
+      "allowOverallFeedback": "*",
+      "canAskForReattempt": "*",
+      "assignmentRules": "*"
+    },
+    "transcriptionEnabled": "TRUE",
+    "learner": {
+      "canReattempt": "*"
+    },
+    "topSubmission": {
+      "displayCriteria": "AFTER_SUBMISSION",
+      "selectionCriteria": "*",
+      "cutoff": 600
+    }
+  },
+  "gameSettings": {
+    "type": 20,
+    "gameId": "g123",
+    "isPublished": false,
+    "companyId": "699221192801769576",
+    "mtentityType": 250,
+    "scoring": {
+      "cutoffScore": 3,
+      "criteria": {
+        "allParameters": []
+      }
+    },
+    "certificate": {
+      "score": 40,
+      "enabled": true,
+      "validity": {
+        "value": "*",
+        "notify": "*"
+      }
+    },
+    "autoRedo": true
+  },
+  "gameData": {
+    "type": 22,
+    "gameId": "g123",
+    "companyId": "699221192801769576",
+    "playableId": "c123",
+    "playableIdType": "300",
+    "stats": {
+      "total": null,
+      "categoryStats": {},
+      "learningContentDetailedStats": null
+    },
+    "maxScore": 500
+  },
+  "activityCollectionVo": {
+    "id": "ac123",
+    "type": 24,
+    "gameId": "g123",
+    "companyId": "699221192801769576",
+    "version": 0,
+    "createdAt": 1526037577,
+    "updatedAt": 1526039319,
+    "staticNode": {
+      "id": "acs123",
+      "type": "210"
+    },
+    "children": [
+      {
+        "id": "a123",
+        "dependOn": []
+      }
+    ]
+  },
+  "formCollectionVo": {
+    "id": "fc123",
+    "type": 25,
+    "gameId": "g123",
+    "companyId": "699221192801769576",
+    "version": 0,
+    "createdAt": 1526037577,
+    "updatedAt": 1526039319,
+    "staticNode": {
+      "id": "",
+      "type": ""
+    },
+    "children": [
+      {
+        "id": "f123",
+        "dependOn": []
+      }
+    ]
+  },
+  "activities": [
+    {
+      "type": 120,
+      "id": "a123",
+      "children": [],
+      "createdBy": "41739275bd2ffbf0",
+      "createdAt": 1526016201,
+      "updatedAt": 1526039319,
+      "gameId": "g123",
+      "staticNode": {
+        "id": "as123",
+        "type": 240,
+        "obj": {
+          "createdAt": 1526016201,
+          "name": "",
+          "updatedAt": 1526016201,
+          "desc": "",
+          "staticVersion": 1,
+          "gameId": "g123",
+          "companyId": "699221192801769576",
+          "type": 40,
+          "id": "as123",
+          "targetLength": null
+        }
+      },
+      "pptUploadByAdmin": false,
+      "pptMedia": null
+    }
+  ]
+}
