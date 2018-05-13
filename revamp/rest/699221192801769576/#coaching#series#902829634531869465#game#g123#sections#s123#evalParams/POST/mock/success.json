@@ -28,7 +28,12 @@
             "guidanceDesc": null,
             "keywords": null
           }
-        }
+        },
+        "mandatory": true,
+        "score": 500,
+        "allowNA": true,
+        "low": 0,
+        "high": 1
       }
     },
     {
