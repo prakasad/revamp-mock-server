@@ -1,0 +1,18 @@
+{
+  "learners": [
+    "lId1",
+    "lId2"
+  ],
+  "reviewers": [
+    {
+      "id": "rId1",
+      "index": 1,
+      "type": "PRIMARY"
+    },
+    {
+      "id": "rId2",
+      "index": 2,
+      "type": "SECONDARY"
+    }
+  ]
+}
