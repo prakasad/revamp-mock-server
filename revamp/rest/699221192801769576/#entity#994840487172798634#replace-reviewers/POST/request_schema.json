@@ -1,0 +1,11 @@
+{
+	"learners":["lId1", "lId2"],
+	"indexReplacements":{
+		"1":"rId1",
+		"2":"rId2"
+	},
+	"reviewerReplacements":{
+		"rId3":"rId4",
+		"rId5":"rId6"
+	}
+}

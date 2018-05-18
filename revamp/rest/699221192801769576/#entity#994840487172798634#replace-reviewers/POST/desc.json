@@ -1,0 +1,12 @@
+{
+  "desc": "Replaces the reviewers of multiple learners",
+  "security": [],
+  "protected": false,
+  "status": "",
+  "response": {
+    "statusCode": 200,
+    "schema": {
+      "type": "application/json"
+    }
+  }
+}

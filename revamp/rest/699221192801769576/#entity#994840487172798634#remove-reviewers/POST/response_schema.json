@@ -1,0 +1,8 @@
+{
+	"success":{
+		"lId1":["rId1", "riD2"]
+	},
+	"failure" :{
+		"lId2":["rId3"]
+	}
+}
