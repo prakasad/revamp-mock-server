@@ -6,13 +6,11 @@
   "reviewers": [
     {
       "id": "rId1",
-      "index": 1,
-      "type": "PRIMARY"
+      "index": "ONE"
     },
     {
       "id": "rId2",
-      "index": 2,
-      "type": "SECONDARY"
+      "index": "TWO"
     }
   ]
 }
