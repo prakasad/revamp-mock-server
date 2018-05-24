@@ -1,0 +1,9 @@
+{
+	"filters":[
+		{
+			"field":"REVIEWER",
+			"filterType":"IN",
+			"values":["rId1", "rId2"]
+		}
+	]
+}
