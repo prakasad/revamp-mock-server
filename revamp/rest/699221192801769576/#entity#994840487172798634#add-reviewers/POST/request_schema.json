@@ -1,16 +1,17 @@
 {
-  "learners": [
-    "lId1",
-    "lId2"
-  ],
-  "reviewers": [
-    {
-      "id": "rId1",
-      "index": "ONE"
-    },
-    {
-      "id": "rId2",
-      "index": "TWO"
-    }
-  ]
+	"learners": [
+		"lId1",
+		"lId2"
+	],
+	"reviewers": [
+		{
+			"id": "rId1",
+			"index": "ONE"
+		},
+		{
+			"id": "rId2",
+			"index": "TWO"
+		}
+	],
+	"replace": true
 }
