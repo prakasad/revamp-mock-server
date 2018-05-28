@@ -1,6 +1,9 @@
 {
-	"learner":{
-		"lId1":["rId1", "rId2"],
-		"lId2": ["rId3"]
-	}
+	"lId1": [
+		"rId1",
+		"rId2"
+	],
+	"lId2": [
+		"rId3"
+	]
 }
