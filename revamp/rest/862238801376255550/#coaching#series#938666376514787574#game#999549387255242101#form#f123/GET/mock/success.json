@@ -1,0 +1,246 @@
+{
+	"isPublished": false,
+	"children": [
+		{
+			"id": "s123",
+			"dependOn": [],
+			"type": 1014,
+			"node": {
+				"isPublished": false,
+				"children": [
+					{
+						"id": "ep123",
+						"dependOn": [],
+						"type": 1031,
+						"node": {
+							"isPublished": false,
+							"children": [],
+							"createdBy": "41739275bd2ffbf0",
+							"createdAt": "1526016201",
+							"updatedAt": "1526016201",
+							"gameId": "999549387255242101",
+							"cloneParent": null,
+							"staticNode": {
+								"id": "eps123",
+								"type": 210,
+								"obj": {
+									"type": 210,
+									"id": "eps123",
+									"createdAt": 1526037472,
+									"updatedAt": 1526037491,
+									"name": "one",
+									"desc": null,
+									"guidanceEnabled": true,
+									"guidance": {
+										"0": "Zero",
+										"1": "one",
+										"2": "two",
+										"3": "three",
+										"4": "Four",
+										"5": "Five"
+									},
+									"allowComments": false,
+									"allowRemediations": true,
+									"guidanceDesc": "Blah Blah",
+									"keywords": null
+								}
+							},
+							"unlockStrategy": 0,
+							"evaluationType": "ASSESSMENT",
+							"mandatory": true,
+							"score": 500,
+							"allowNA": true,
+							"low": 0,
+							"high": 5
+						}
+					},
+					{
+						"id": "ep456",
+						"dependOn": [],
+						"type": 1033,
+						"node": {
+							"isPublished": false,
+							"children": [],
+							"createdBy": "41739275bd2ffbf0",
+							"createdAt": "1526016201",
+							"updatedAt": "1526016201",
+							"gameId": "999549387255242101",
+							"cloneParent": null,
+							"staticNode": {
+								"id": "eps456",
+								"type": 210,
+								"obj": {
+									"type": 210,
+									"id": "eps456",
+									"createdAt": 1526037472,
+									"updatedAt": 1526037491,
+									"name": "two",
+									"desc": null,
+									"guidanceEnabled": true,
+									"guidance": {
+										"0": "Zero",
+										"1": "one"
+									},
+									"allowComments": true,
+									"allowRemediations": true,
+									"guidanceDesc": "",
+									"keywords": null
+								}
+							},
+							"unlockStrategy": 0,
+							"evaluationType": "ASSESSMENT",
+							"mandatory": true,
+							"score": 500,
+							"allowNA": true,
+							"low": 0,
+							"high": 1
+						}
+					}
+				],
+				"createdBy": "41739275bd2ffbf0",
+				"createdAt": "1526016201",
+				"updatedAt": "1526016201",
+				"gameId": "999549387255242101",
+				"cloneParent": null,
+				"staticNode": {
+					"id": "ss123",
+					"type": 210,
+					"obj": {
+						"type": 210,
+						"id": "ss123",
+						"createdAt": 1526037472,
+						"updatedAt": 1526037491,
+						"name": "Section one",
+						"desc": null
+					}
+				},
+				"unlockStrategy": 0,
+				"evaluationType": "ASSESSMENT"
+			}
+		},
+		{
+			"id": "s456",
+			"type": 1014,
+			"dependOn": [],
+			"node": {
+				"isPublished": false,
+				"children": [
+					{
+						"id": "ep789",
+						"type": 1031,
+						"dependOn": [],
+						"node": {
+							"isPublished": false,
+							"children": [],
+							"createdBy": "41739275bd2ffbf0",
+							"createdAt": "1526016201",
+							"updatedAt": "1526016201",
+							"gameId": "999549387255242101",
+							"cloneParent": null,
+							"staticNode": {
+								"id": "eps789",
+								"type": 210,
+								"obj": {
+									"type": 210,
+									"id": "eps789",
+									"createdAt": 1526037472,
+									"updatedAt": 1526037491,
+									"name": "three",
+									"desc": null,
+									"guidanceEnabled": false,
+									"guidance": {},
+									"allowComments": true,
+									"allowRemediations": false,
+									"guidanceDesc": null,
+									"keywords": null
+								}
+							},
+							"unlockStrategy": 0,
+							"evaluationType": "ASSESSMENT",
+							"mandatory": true,
+							"score": 500,
+							"allowNA": true,
+							"low": 0,
+							"high": 1
+						}
+					},
+					{
+						"id": "ep10",
+						"dependOn": [],
+						"type": 1030,
+						"node": {
+							"isPublished": false,
+							"children": [],
+							"createdBy": "41739275bd2ffbf0",
+							"createdAt": "1526016201",
+							"updatedAt": "1526016201",
+							"gameId": "999549387255242101",
+							"cloneParent": null,
+							"staticNode": {
+								"id": "eps10",
+								"type": 210,
+								"obj": {
+									"type": 210,
+									"id": "eps10",
+									"createdAt": 1526037472,
+									"updatedAt": 1526037491,
+									"name": "four",
+									"desc": null,
+									"guidanceEnabled": false,
+									"guidance": {},
+									"allowComments": true,
+									"allowRemediations": true,
+									"guidanceDesc": null,
+									"keywords": null
+								}
+							},
+							"unlockStrategy": 0,
+							"evaluationType": "ASSESSMENT",
+							"mandatory": true,
+							"score": 0,
+							"allowNA": true
+						}
+					}
+				],
+				"createdBy": "41739275bd2ffbf0",
+				"createdAt": "1526016201",
+				"updatedAt": "1526016201",
+				"gameId": "999549387255242101",
+				"cloneParent": null,
+				"staticNode": {
+					"id": "ss123",
+					"type": 210,
+					"obj": {
+						"type": 210,
+						"id": "ss123",
+						"createdAt": 1526037472,
+						"updatedAt": 1526037491,
+						"name": "Section two",
+						"desc": null
+					}
+				},
+				"unlockStrategy": 0,
+				"evaluationType": "ASSESSMENT"
+			}
+		}
+	],
+	"createdBy": "41739275bd2ffbf0",
+	"createdAt": "1526016201",
+	"updatedAt": "1526016201",
+	"gameId": "999549387255242101",
+	"cloneParent": null,
+	"staticNode": {
+		"id": "fs123",
+		"type": 210,
+		"obj": {
+			"type": 210,
+			"id": "fs123",
+			"createdAt": 1526037472,
+			"updatedAt": 1526037491,
+			"name": null,
+			"desc": null
+		}
+	},
+	"unlockStrategy": 0,
+	"evaluationType": "ASSESSMENT"
+}
