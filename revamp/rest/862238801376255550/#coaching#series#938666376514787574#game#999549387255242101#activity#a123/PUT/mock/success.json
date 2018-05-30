@@ -1,0 +1,91 @@
+{
+	"playables": [
+		{
+			"old": "a123",
+			"new": {
+				"type": 120,
+				"id": "a123",
+				"children": [],
+				"createdBy": "41739275bd2ffbf0",
+				"createdAt": 1526016201,
+				"updatedAt": 1526039319,
+				"gameId": "999549387255242101",
+				"staticNode": {
+					"id": "as123",
+					"type": 240,
+					"obj": {
+						"createdAt": 1526016201,
+						"name": "",
+						"updatedAt": 1526016201,
+						"desc": "",
+						"staticVersion": 1,
+						"gameId": "999549387255242101",
+						"companyId": "862238801376255550",
+						"type": 40,
+						"id": "as123",
+						"targetLength": 120
+					}
+				},
+				"pptUploadByAdmin": true,
+				"pptMedia": {
+					"id": "994916734884787715",
+					"title": "samplepptx.pptx",
+					"type": 94,
+					"obj": {
+						"type": 94,
+						"cas_val": 4236833175261927,
+						"id": "994916734884787715",
+						"status": 2,
+						"title": "samplepptx.pptx",
+						"uploadedById": "41739275bd2ffbf0",
+						"uploadedAt": 1526041609,
+						"companyId": "683898119375555483",
+						"size": 413895,
+						"contentParts": 0,
+						"original_path": "https://cf-ap1.mindtickle.com/683898119375555483/1526041607421samplepptx.pptx?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2YtYXAxLm1pbmR0aWNrbGUuY29tLzY4Mzg5ODExOTM3NTU1NTQ4My8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNTI2MDU2MDExfSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9LCJEYXRlR3JlYXRlclRoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTQ0NDk3NzExNn19fV19&Signature=EGToFVd9-eBxiy4Vmct-E8eprxNSo2ct03nVLB~JsCrL0nx5BH8Q5PYuUYPCWSDvSg0gB2~jH~qRvDTeEqMOWKJReLW-qFaA-iLuoL2DHBRQweugDyP3UjdDtaf9UcAVkJ850Ophj7mV0PoqpgbVZTBqbVA6Z1QcK6WYXd-GCIA_&Key-Pair-Id=APKAJRHSQBGT5CW7P2CA",
+						"expiry": 1526056011,
+						"providerSource": "_default",
+						"providerSourceId": null,
+						"uuid": "//mediaplayer.mindtickle.com/crocodoc/?data=bnVsbCMx&sig=6fDMVT6%2BO2OwPeWp%2FPAs0YoVZYc%3D&time=1526056011",
+						"uuid_filestack": null,
+						"urls": {
+							"thumb": "//s3-ap-southeast-1.amazonaws.com/mtdocs-box-processed/994916734884787715/images/thumbnail-master-0.png?AWSAccessKeyId=AKIAJ2TLVSVBCUIOVRPA&Expires=1526056011&Signature=U9zPhrNlOdbfWmT4AfAzqwTFyzM%3D",
+							"pdf": "//s3-ap-southeast-1.amazonaws.com/mtdocs-box-processed/994916734884787715/doc.pdf?AWSAccessKeyId=AKIAJ2TLVSVBCUIOVRPA&Expires=1526056011&Signature=cJyKbe6NkTOD6jLaN%2F1yvvfS4KA%3D"
+						},
+						"imagifiedStatus": "IMAGIFIED_NOT_STARTED",
+						"imagifyStatusLastUpdated": 1526041608
+					}
+				}
+			}
+		},
+		{
+			"old": "ac123",
+			"new": {
+				"type": 42,
+				"id": "ac123",
+				"children": [
+					{
+						"id": "a123",
+						"dependOn": []
+					}
+				],
+				"createdBy": "41739275bd2ffbf0",
+				"createdAt": 1526037577,
+				"updatedAt": 1526039319,
+				"gameId": "999549387255242101",
+				"staticNode": {
+					"id": "acs123",
+					"type": 212,
+					"obj": {
+						"type": 212,
+						"id": "acs123",
+						"createdAt": 1526037472,
+						"updatedAt": 1526037491,
+						"name": null,
+						"desc": null
+					}
+				}
+			}
+		}
+	]
+}

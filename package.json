@@ -1,5 +1,5 @@
 {
-    "name": "node-mock-server",
+    "name": "revamp-mock-server",
     "version": "0.23.0",
     "description": "File based Node REST API mock server",
     "email": "simon.mollweide@web.de",
@@ -61,6 +61,7 @@
         "make-dir": "1.2.0",
         "mime-types": "2.1.18",
         "minimatch": "3.0.4",
+        "node-mock-server": "^0.23.0",
         "open": "0.0.5",
         "p-series": "1.1.0",
         "react-dev-utils": "5.0.0",
@@ -70,6 +71,7 @@
     "devDependencies": {
         "@namics/eslint-config": "5.0.0",
         "babel-eslint": "8.2.2",
+        "cors": "^2.8.4",
         "eslint": "4.18.2",
         "eslint-plugin-import": "2.9.0",
         "mocha": "5.0.4"
