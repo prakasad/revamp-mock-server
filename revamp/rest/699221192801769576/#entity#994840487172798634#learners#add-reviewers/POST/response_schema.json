@@ -1,4 +1,3 @@
 {
-	"success":["l1", "l2"],
-	"failed":["l3"]
+	"processId": "ABC"
 }
