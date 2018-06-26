@@ -1,0 +1,83 @@
+{
+	"playables": [
+		{
+			"old": null,
+			"new": {
+				"id": "ep793",
+				"isPublished": false,
+				"children": [],
+				"createdBy": "41739275bd2ffbf0",
+				"createdAt": "1526016201",
+				"updatedAt": "1526016201",
+				"gameId": "999549387255242101",
+				"cloneParent": null,
+				"staticNode": {
+					"id": "eps789",
+					"type": 210,
+					"obj": {
+						"type": 210,
+						"id": "eps793",
+						"createdAt": 1526037472,
+						"updatedAt": 1526037491,
+						"name": "one",
+						"desc": null,
+						"guidanceEnabled": true,
+						"guidance": {},
+						"allowComments": false,
+						"allowRemediations": true,
+						"guidanceDesc": null,
+						"keywords": null
+					}
+				},
+				"mandatory": true,
+				"score": 500,
+				"allowNA": true,
+				"low": 0,
+				"high": 1
+			}
+		},
+		{
+			"old": "s123",
+			"new": {
+				"id": "s123",
+				"dependOn": [],
+				"obj": {
+					"isPublished": false,
+					"children": [
+						{
+							"id": "ep123",
+							"dependOn": []
+						},
+						{
+							"id": "ep456",
+							"dependOn": []
+						},
+						{
+							"id": "ep789",
+							"dependOn": []
+						}
+					],
+					"createdBy": "41739275bd2ffbf0",
+					"createdAt": "1526016201",
+					"updatedAt": "1526016201",
+					"gameId": "999549387255242101",
+					"cloneParent": null,
+					"staticNode": {
+						"id": "ss123",
+						"type": 210,
+						"obj": {
+							"type": 210,
+							"id": "ss123",
+							"createdAt": 1526037472,
+							"updatedAt": 1526037491,
+							"name": "Section three",
+							"desc": null
+						}
+					},
+					"unlockStrategy": 0,
+					"evaluationType": "ASSESSMENT"
+				}
+			}
+		}
+	]
+}

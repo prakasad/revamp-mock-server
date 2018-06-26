@@ -5,7 +5,7 @@
 			"new": {
 				"id": "s789",
 				"dependOn": [],
-				"obj": {
+				"node": {
 					"isPublished": false,
 					"children": [],
 					"createdBy": "41739275bd2ffbf0",
