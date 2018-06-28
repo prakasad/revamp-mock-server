@@ -1,1 +1,6 @@
-{}
+{
+	"staticNode": {
+		"type": 123,
+		"name": "blah blah"
+	}
+}

@@ -20,6 +20,16 @@
 							"updatedAt": "1526016201",
 							"gameId": "999549387255242101",
 							"cloneParent": null,
+							"options": [
+								{
+									"id": 0,
+									"score": 100
+								},
+								{
+									"id": 1,
+									"score": 200
+								}
+							],
 							"staticNode": {
 								"id": "eps123",
 								"type": 210,

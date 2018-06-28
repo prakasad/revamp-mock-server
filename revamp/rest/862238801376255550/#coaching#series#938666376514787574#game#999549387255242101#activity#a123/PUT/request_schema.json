@@ -1,1 +1,6 @@
-{}
+{
+	"activity":{
+		"pptUploadByAdmin" : "true",
+		"type": 1244
+	}
+}
