@@ -1,1 +1,5 @@
-{}
+{
+	"evalParamIds": ["ep123","ep345","ep786"],
+	"destinationId": "s345",
+	"orderIndex": 2
+}

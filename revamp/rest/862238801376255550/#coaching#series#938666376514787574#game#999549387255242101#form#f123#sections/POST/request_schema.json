@@ -1,1 +1,10 @@
-{}
+{
+	"node": {
+		"type": 1014,
+		"displayIndex": "",
+		"staticNode":  {
+			"type": 123,
+			"name": "lah balc"
+		}
+	}
+}

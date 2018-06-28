@@ -1,9 +1,0 @@
-{
-    "errors": [
-        {
-            "errorCode": "TRANSACTION_LOCK",
-            "message": "This object is being already changed by some one."
-        }
-    ],
-    "details": "blah blah"
-}
