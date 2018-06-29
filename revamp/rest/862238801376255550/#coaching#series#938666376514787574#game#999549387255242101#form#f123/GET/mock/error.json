@@ -1,9 +1,5 @@
 {
-    "errors": [
-        {
-            "errorCode": "TRANSACTION_LOCK",
-            "message": "This object is being already changed by some one."
-        }
-    ],
-    "details": "blah blah"
+	"statusCode": 9,
+	"statusMsg": "resource is not accessible:",
+	"requestId": "1530267969921.F3QMO.192.168.0.114"
 }

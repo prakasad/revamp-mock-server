@@ -1,83 +1,90 @@
 {
-	"playables": [
-		{
-			"old": null,
-			"new": {
-				"id": "ep790",
-				"isPublished": false,
-				"children": [],
-				"createdBy": "41739275bd2ffbf0",
-				"createdAt": "1526016201",
-				"updatedAt": "1526016201",
-				"gameId": "999549387255242101",
-				"cloneParent": null,
-				"staticNode": {
-					"id": "eps789",
-					"type": 1060,
-					"obj": {
-						"type": 1060,
-						"id": "eps790",
-						"createdAt": 1526037472,
-						"updatedAt": 1526037491,
-						"name": "one",
-						"desc": null,
-						"guidanceEnabled": true,
-						"guidance": {},
-						"allowComments": false,
-						"allowRemediations": true,
-						"guidanceDesc": null,
-						"keywords": null
-					}
-				},
-				"mandatory": true,
-				"score": 500,
-				"allowNA": true,
-				"low": 0,
-				"high": 1
-			}
-		},
-		{
-			"old": "s123",
-			"new": {
-				"id": "s123",
-				"dependOn": [],
-				"obj": {
+	"statusCode": 200,
+	"statusMsg": null,
+	"requestId": "1528487438185.XzzMK.192.168.0.114",
+	"object": {
+		"nodes": [
+			{
+				"old": null,
+				"new": {
+					"id": "ep5",
+					"type": 1031,
 					"isPublished": false,
-					"children": [
-						{
-							"id": "ep123",
-							"dependOn": []
-						},
-						{
-							"id": "ep456",
-							"dependOn": []
-						},
-						{
-							"id": "ep789",
-							"dependOn": []
-						}
-					],
+					"children": [],
 					"createdBy": "41739275bd2ffbf0",
 					"createdAt": "1526016201",
 					"updatedAt": "1526016201",
 					"gameId": "999549387255242101",
 					"cloneParent": null,
 					"staticNode": {
-						"id": "ss123",
-						"type": 1060,
+						"id": "eps5",
+						"type": 1061,
 						"obj": {
-							"type": 1060,
-							"id": "ss123",
+							"type": 1061,
+							"id": "eps5",
 							"createdAt": 1526037472,
 							"updatedAt": 1526037491,
-							"name": "Section three",
-							"desc": null
+							"name": "",
+							"desc": null,
+							"guidanceEnabled": true,
+							"guidance": {},
+							"allowComments": false,
+							"allowRemediations": true,
+							"guidanceDesc": null,
+							"keywords": null
 						}
 					},
-					"unlockStrategy": 0,
-					"evaluationType": "ASSESSMENT"
+					"mandatory": true,
+					"score": 500,
+					"allowNA": true,
+					"low": 0,
+					"high": 1
+				}
+			},
+			{
+				"old": "s123",
+				"new": {
+					"id": "s123",
+					"dependOn": [],
+					"type": 1014,
+					"obj": {
+						"isPublished": false,
+						"children": [
+							{
+								"id": "ep1",
+								"dependOn": []
+							},
+							{
+								"id": "ep2",
+								"dependOn": []
+							},
+							{
+								"id": "ep5",
+								"dependOn": []
+							}
+						],
+						"createdBy": "41739275bd2ffbf0",
+						"createdAt": "1526016201",
+						"updatedAt": "1526016201",
+						"gameId": "999549387255242101",
+						"cloneParent": null,
+						"staticNode": {
+							"id": "ss123",
+							"type": 1044,
+							"obj": {
+								"type": 1044,
+								"id": "ss123",
+								"createdAt": 1526037472,
+								"updatedAt": 1526037491,
+								"name": "Section one",
+								"desc": null
+							}
+						},
+						"unlockStrategy": 0,
+						"evaluationType": "ASSESSMENT"
+					}
 				}
 			}
-		}
-	]
+		]
+	}
 }
