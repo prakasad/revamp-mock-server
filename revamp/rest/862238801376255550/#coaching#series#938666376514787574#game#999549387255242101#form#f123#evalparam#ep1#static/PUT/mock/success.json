@@ -1,0 +1,25 @@
+{
+	"statusCode": 200,
+	"statusMsg": null,
+	"requestId": "1530268403638.Mlj96.192.168.0.114",
+	"object": {
+		"staticNode": {
+			"id": "eps1",
+			"type": 1061,
+			"obj": {
+				"type": 1061,
+				"id": "eps1",
+				"createdAt": 1526037472,
+				"updatedAt": 1526037491,
+				"name": "hahaha",
+				"desc": null,
+				"guidanceEnabled": false,
+				"guidance": {},
+				"allowComments": false,
+				"allowRemediations": true,
+				"guidanceDesc": null,
+				"keywords": null
+			}
+		}
+	}
+}

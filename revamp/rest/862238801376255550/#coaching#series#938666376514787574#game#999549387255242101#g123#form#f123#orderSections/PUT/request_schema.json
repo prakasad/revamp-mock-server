@@ -1,12 +1,12 @@
 {
  "node": {
- 	"type": 123,
+ 	"type": 1013,
  	"children": [{
  		"id": "s123",
 		"dependOn": [],
 		"type": 1014,
  	},{
- 		"id": "s123",
+ 		"id": "s456",
 		"dependOn": [],
 		"type": 1014,
  	}]

@@ -1,367 +1,89 @@
 {
-    "statusCode": 200,
-    "statusMsg": null,
-    "requestId": "1528487438185.XzzMK.192.168.0.114",
-    "object": {
-        "resultNodes": [
-            {
-                "_1": "1005088126975775024",
-                "_2": null
-            },
-            {
-                "_1": "1005064391492334967",
-                "_2": {
-                    "type": 1014,
-                    "cas_val": 1528471518336581632,
-                    "id": "1005175320082907390",
-                    "children": [
-                        {
-                            "id": "1005088634265658336",
-                            "node": null,
-                            "type": 1030,
-                            "dependOn": []
-                        },
-                        {
-                            "id": "1005088795684581674",
-                            "node": null,
-                            "type": 1030,
-                            "dependOn": []
-                        }
-                    ],
-                    "createdBy": "4193271ef4c65a6e",
-                    "createdAt": 1528487446,
-                    "updatedAt": 1528487446,
-                    "cloneParent": "1005064391492334967",
-                    "staticNode": {
-                        "id": "1005064391494984186",
-                        "type": 1044,
-                        "obj": {
-                            "type": 1044,
-                            "cas_val": 1528461008405594112,
-                            "id": "1005064391494984186",
-                            "createdAt": 1528460998,
-                            "updatedAt": 1528460998,
-                            "name": null,
-                            "desc": null,
-                            "staticVersion": 0
-                        }
-                    },
-                    "unlockStrategy": 0,
-                    "evaluationType": "ASSESSMENT"
-                }
-            },
-            {
-                "_1": "1005064389240744159",
-                "_2": {
-                    "type": 1013,
-                    "cas_val": 1528471518522966016,
-                    "id": "1005175322539731797",
-                    "children": [
-                        {
-                            "id": "1005175320082907390",
-                            "node": null,
-                            "type": 1014,
-                            "dependOn": []
-                        },
-                        {
-                            "id": "1005176182191213611",
-                            "node": null,
-                            "type": 1014,
-                            "dependOn": []
-                        },
-                        {
-                            "id": "1005176558283303875",
-                            "node": null,
-                            "type": 1014,
-                            "dependOn": []
-                        }
-                    ],
-                    "createdBy": "4193271ef4c65a6e",
-                    "createdAt": 1528487446,
-                    "updatedAt": 1528487742,
-                    "cloneParent": "1005064389240744159",
-                    "staticNode": {
-                        "id": "1005064389240407778",
-                        "type": 1043,
-                        "obj": {
-                            "type": 1043,
-                            "cas_val": 1528461009596252160,
-                            "id": "1005064389240407778",
-                            "createdAt": 1528460998,
-                            "updatedAt": 1528460998,
-                            "name": null,
-                            "desc": null,
-                            "staticVersion": 0
-                        }
-                    },
-                    "unlockStrategy": 0,
-                    "evaluationType": "ASSESSMENT"
-                }
-            },
-            {
-                "_1": "1005064387122256571",
-                "_2": {
-                    "type": 1012,
-                    "cas_val": 1528471518048288768,
-                    "id": "1005175325344419703",
-                    "children": [
-                        {
-                            "id": "1005175322539731797",
-                            "node": null,
-                            "type": 1013,
-                            "dependOn": []
-                        }
-                    ],
-                    "createdBy": "4193271ef4c65a6e",
-                    "createdAt": 1528487447,
-                    "updatedAt": 1528487447,
-                    "cloneParent": "1005064387122256571",
-                    "staticNode": {
-                        "id": "1005064387122315430",
-                        "type": 1042,
-                        "obj": {
-                            "type": 1043,
-                            "cas_val": 1528461010422988800,
-                            "id": "1005064387122315430",
-                            "createdAt": 1528460997,
-                            "updatedAt": 1528460997,
-                            "name": null,
-                            "desc": null,
-                            "staticVersion": 0
-                        }
-                    },
-                    "unlockStrategy": 0,
-                    "evaluationType": "ASSESSMENT"
-                }
-            },
-            {
-                "_1": "1005064384941161676",
-                "_2": {
-                    "type": 1010,
-                    "cas_val": 1528471518192664576,
-                    "id": "1005175328365559690",
-                    "children": [
-                        {
-                            "id": "1005175325344419703",
-                            "node": null,
-                            "type": 1012,
-                            "dependOn": []
-                        },
-                        {
-                            "id": "1005064394442405947",
-                            "node": null,
-                            "type": 1011,
-                            "dependOn": []
-                        }
-                    ],
-                    "createdBy": "4193271ef4c65a6e",
-                    "createdAt": 1528487448,
-                    "updatedAt": 1528487448,
-                    "cloneParent": "1005064384941161676",
-                    "staticNode": {
-                        "id": "1005064384940274031",
-                        "type": 1040,
-                        "obj": {
-                            "type": 1040,
-                            "cas_val": 1528461009765335040,
-                            "id": "1005064384940274031",
-                            "createdAt": 1528460997,
-                            "updatedAt": 1528460997,
-                            "name": null,
-                            "desc": null,
-                            "staticVersion": 0
-                        }
-                    },
-                    "unlockStrategy": 0,
-                    "evaluationType": "ASSESSMENT"
-                }
-            },
-            {
-                "_1": "1005090155604013309",
-                "_2": null
-            },
-            {
-                "_1": "1005089530707146356",
-                "_2": {
-                    "type": 1014,
-                    "cas_val": 1528471519044501504,
-                    "id": "1005176182191213611",
-                    "children": [
-                        {
-                            "id": "1005090323961403378",
-                            "node": null,
-                            "type": 1030,
-                            "dependOn": []
-                        },
-                        {
-                            "id": "1005090541691804994",
-                            "node": null,
-                            "type": 1030,
-                            "dependOn": []
-                        }
-                    ],
-                    "createdAt": 1528487651,
-                    "updatedAt": 1528487651,
-                    "cloneParent": "1005089530707146356",
-                    "staticNode": {
-                        "id": "1005089530709771294",
-                        "type": 1044,
-                        "obj": {
-                            "type": 1044,
-                            "cas_val": 1528467010897444864,
-                            "id": "1005089530709771294",
-                            "createdAt": 1528466992,
-                            "updatedAt": 1528466992,
-                            "name": null,
-                            "desc": null,
-                            "staticVersion": 0
-                        }
-                    },
-                    "unlockStrategy": 0,
-                    "evaluationType": "ASSESSMENT"
-                }
-            },
-            {
-                "_1": "1005175322539731797",
-                "_2": {
-                    "type": 1013,
-                    "cas_val": 1528471518522966016,
-                    "id": "1005175322539731797",
-                    "children": [
-                        {
-                            "id": "1005175320082907390",
-                            "node": null,
-                            "type": 1014,
-                            "dependOn": []
-                        },
-                        {
-                            "id": "1005176182191213611",
-                            "node": null,
-                            "type": 1014,
-                            "dependOn": []
-                        },
-                        {
-                            "id": "1005176558283303875",
-                            "node": null,
-                            "type": 1014,
-                            "dependOn": []
-                        }
-                    ],
-                    "createdBy": "4193271ef4c65a6e",
-                    "createdAt": 1528487446,
-                    "updatedAt": 1528487742,
-                    "cloneParent": "1005064389240744159",
-                    "staticNode": {
-                        "id": "1005064389240407778",
-                        "type": 1043,
-                        "obj": {
-                            "type": 1043,
-                            "cas_val": 1528461009596252160,
-                            "id": "1005064389240407778",
-                            "createdAt": 1528460998,
-                            "updatedAt": 1528460998,
-                            "name": null,
-                            "desc": null,
-                            "staticVersion": 0
-                        }
-                    },
-                    "unlockStrategy": 0,
-                    "evaluationType": "ASSESSMENT"
-                }
-            },
-            {
-                "_1": "1005107950144242979",
-                "_2": null
-            },
-            {
-                "_1": "1005091477790841020",
-                "_2": {
-                    "type": 1014,
-                    "cas_val": 1528471519194775552,
-                    "id": "1005176558283303875",
-                    "children": [
-                        {
-                            "id": "1005108043283424016",
-                            "node": null,
-                            "type": 1030,
-                            "dependOn": []
-                        },
-                        {
-                            "id": "1005108278064994817",
-                            "node": null,
-                            "type": 1030,
-                            "dependOn": []
-                        }
-                    ],
-                    "createdAt": 1528487741,
-                    "updatedAt": 1528487741,
-                    "cloneParent": "1005091477790841020",
-                    "staticNode": {
-                        "id": "1005091477790331557",
-                        "type": 1044,
-                        "obj": {
-                            "type": 1044,
-                            "cas_val": 1528467474995085312,
-                            "id": "1005091477790331557",
-                            "createdAt": 1528467456,
-                            "updatedAt": 1528467456,
-                            "name": null,
-                            "desc": null,
-                            "staticVersion": 0
-                        }
-                    },
-                    "unlockStrategy": 0,
-                    "evaluationType": "ASSESSMENT"
-                }
-            },
-            {
-                "_1": "1005175322539731797",
-                "_2": {
-                    "type": 1013,
-                    "cas_val": 1528471518522966016,
-                    "id": "1005175322539731797",
-                    "children": [
-                        {
-                            "id": "1005175320082907390",
-                            "node": null,
-                            "type": 1014,
-                            "dependOn": []
-                        },
-                        {
-                            "id": "1005176182191213611",
-                            "node": null,
-                            "type": 1014,
-                            "dependOn": []
-                        },
-                        {
-                            "id": "1005176558283303875",
-                            "node": null,
-                            "type": 1014,
-                            "dependOn": []
-                        }
-                    ],
-                    "createdBy": "4193271ef4c65a6e",
-                    "createdAt": 1528487446,
-                    "updatedAt": 1528487742,
-                    "cloneParent": "1005064389240744159",
-                    "staticNode": {
-                        "id": "1005064389240407778",
-                        "type": 1043,
-                        "obj": {
-                            "type": 1043,
-                            "cas_val": 1528461009596252160,
-                            "id": "1005064389240407778",
-                            "createdAt": 1528460998,
-                            "updatedAt": 1528460998,
-                            "name": null,
-                            "desc": null,
-                            "staticVersion": 0
-                        }
-                    },
-                    "unlockStrategy": 0,
-                    "evaluationType": "ASSESSMENT"
-                }
-            }
-        ]
-    }
+	"statusCode": 200,
+	"statusMsg": null,
+	"requestId": "1528487438185.XzzMK.192.168.0.114",
+	"object": {
+		"nodes": [
+			{
+				"_1": "ep1",
+				"_2": null
+			},
+			{
+				"_1": "s123",
+				"_2": {
+					"type": 1014,
+					"cas_val": 1528471518336581632,
+					"id": "s123",
+					"children": [
+						{
+							"id": "ep2",
+							"node": null,
+							"type": 1033,
+							"dependOn": []
+						}
+					],
+					"createdBy": "4193271ef4c65a6e",
+					"createdAt": 1528487446,
+					"updatedAt": 1528487446,
+					"cloneParent": "1005064391492334967",
+					"staticNode": {
+						"id": "ss123",
+						"type": 1044,
+						"obj": {
+							"type": 1044,
+							"cas_val": 1528461008405594112,
+							"id": "ss123",
+							"createdAt": 1528460998,
+							"updatedAt": 1528460998,
+							"name": null,
+							"desc": null,
+							"staticVersion": 0
+						}
+					},
+					"unlockStrategy": 0,
+					"evaluationType": "ASSESSMENT"
+				}
+			},
+			{
+				"_1": "s456",
+				"_2": {
+					"type": 1013,
+					"cas_val": 1528471518522966016,
+					"id": "s456",
+					"children": [
+						{
+							"id": "ep4",
+							"node": null,
+							"type": 1030,
+							"dependOn": []
+						}
+					],
+					"createdBy": "4193271ef4c65a6e",
+					"createdAt": 1528487446,
+					"updatedAt": 1528487742,
+					"cloneParent": "1005064389240744159",
+					"staticNode": {
+						"id": "ss456",
+						"type": 1044,
+						"obj": {
+							"type": 1044,
+							"cas_val": 1528461009596252160,
+							"id": "ss456",
+							"createdAt": 1528460998,
+							"updatedAt": 1528460998,
+							"name": null,
+							"desc": null,
+							"staticVersion": 0
+						}
+					},
+					"unlockStrategy": 0,
+					"evaluationType": "ASSESSMENT"
+				}
+			},
+			{
+				"_1": "ep3",
+				"_2": null
+			}
+		]
+	}
 }

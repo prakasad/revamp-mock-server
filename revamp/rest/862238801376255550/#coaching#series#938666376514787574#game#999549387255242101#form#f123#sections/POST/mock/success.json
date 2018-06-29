@@ -1,10 +1,14 @@
 {
+	"statusCode": 200,
+	"statusMsg": null,
+	"requestId": "1528487438185.XzzMK.192.168.0.114",
 	"object": {
-		"resultNdodes": [
+		"resultNodes": [
 			{
 				"old": null,
 				"new": {
 					"id": "s789",
+					"type": 1014,
 					"dependOn": [],
 					"node": {
 						"isPublished": false,
@@ -16,10 +20,10 @@
 						"cloneParent": null,
 						"staticNode": {
 							"id": "ss789",
-							"type": 210,
+							"type": 1044,
 							"obj": {
-								"type": 210,
-								"id": "ss123",
+								"type": 1044,
+								"id": "ss789",
 								"createdAt": 1526037472,
 								"updatedAt": 1526037491,
 								"name": "Section three",
@@ -35,19 +39,22 @@
 				"old": "f123",
 				"new": {
 					"isPublished": false,
-					"type": 42,
+					"type": 1013,
 					"id": "f123",
 					"children": [
 						{
 							"id": "s123",
+							"type": 1014,
 							"dependOn": []
 						},
 						{
 							"id": "s456",
+							"type": 1014,
 							"dependOn": []
 						},
 						{
 							"id": "s789",
+							"type": 1014,
 							"dependOn": []
 						}
 					],
@@ -58,9 +65,9 @@
 					"cloneParent": null,
 					"staticNode": {
 						"id": "fs123",
-						"type": 210,
+						"type": 1043,
 						"obj": {
-							"type": 210,
+							"type": 1043,
 							"id": "fs123",
 							"createdAt": 1526037472,
 							"updatedAt": 1526037491,

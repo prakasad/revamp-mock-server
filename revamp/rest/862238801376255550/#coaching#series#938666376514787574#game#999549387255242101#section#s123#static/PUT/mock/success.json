@@ -1,12 +1,21 @@
 {
-  "id": "ss123",
-  "type": 210,
-  "obj": {
-    "type": 210,
-    "id": "ss123",
-    "createdAt": 1526037472,
-    "updatedAt": 1526037491,
-    "name": "Section one one",
-    "desc": null
-  }
+	"statusCode": 200,
+	"statusMsg": null,
+	"requestId": "1528487438185.XzzMK.192.168.0.114",
+	"object": {
+		"staticNode": {
+			"id": "ss123",
+			"type": 1044,
+			"obj": {
+				"type": 1044,
+				"cas_val": 1527145164177408000,
+				"id": "ss123",
+				"createdAt": 1527145164,
+				"updatedAt": 1527145164,
+				"name": "section 1",
+				"desc": null,
+				"staticVersion": 0
+			}
+		}
+	}
 }

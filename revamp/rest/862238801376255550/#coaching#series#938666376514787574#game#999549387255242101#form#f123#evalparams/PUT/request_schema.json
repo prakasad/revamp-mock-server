@@ -1,1 +1,13 @@
-{}
+"ep1": {
+	"id": "eps123",
+	"obj": {
+		"mandatory": true
+	}
+},
+"ep2": {
+	"id": "eps345",
+	"obj": {
+		"mandatory": false
+	}
+}
+}

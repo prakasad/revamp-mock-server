@@ -1,252 +1,255 @@
 {
-	"series":{
-		"id": "938666376514787574",
-		"name": "Series A",
-		"prm": {
-			"rules": [
-				{
-					"permission": "SERIES_VIEW_ANALYTICS",
-					"rule": {
-						"accessType": "RESTRICTED",
-						"userids": [
-							"3e5fe367c59a8425",
-							"4111c8f2b0568452",
-							"3aaed062834712d7",
-							"3c021b9f87c35391",
-							"3ce2a36a9b130c80",
-							"38b70187c0961035",
-							"3c2757916b34e30d",
-							"3d0a1286bc76a84c",
-							"3ad040d2a9d3b50b",
-							"3c07fa69986affd2",
-							"3db8cc416a2cdb31",
-							"3c95cdae2503185d",
-							"406acd342e51797d",
-							"3c8169bb78cf0a65",
-							"427d9fd62daf3f17",
-							"3777a2f9c10ee4ef"
-						],
-						"groupids": []
+	"statusCode": 200,
+	"statusMsg": null,
+	"requestId": "1528711121335.rRoYJ.192.168.0.114",
+	"object": {
+		"series": {
+			"id": "938666376514787574",
+			"name": "Series A",
+			"prm": {
+				"rules": [
+					{
+						"permission": "SERIES_VIEW_ANALYTICS",
+						"rule": {
+							"accessType": "RESTRICTED",
+							"userids": [
+								"3e5fe367c59a8425",
+								"4111c8f2b0568452",
+								"3aaed062834712d7",
+								"3c021b9f87c35391",
+								"3ce2a36a9b130c80",
+								"38b70187c0961035",
+								"3c2757916b34e30d",
+								"3d0a1286bc76a84c",
+								"3ad040d2a9d3b50b",
+								"3c07fa69986affd2",
+								"3db8cc416a2cdb31",
+								"3c95cdae2503185d",
+								"406acd342e51797d",
+								"3c8169bb78cf0a65",
+								"427d9fd62daf3f17",
+								"3777a2f9c10ee4ef"
+							],
+							"groupids": []
+						}
+					},
+					{
+						"permission": "MODULE_MANAGEMENT",
+						"rule": {
+							"accessType": "RESTRICTED",
+							"userids": [
+								"3e5fe367c59a8425",
+								"4111c8f2b0568452",
+								"3aaed062834712d7",
+								"3c021b9f87c35391",
+								"3ce2a36a9b130c80",
+								"38b70187c0961035",
+								"3c2757916b34e30d",
+								"3d0a1286bc76a84c",
+								"3ad040d2a9d3b50b",
+								"3c07fa69986affd2",
+								"3db8cc416a2cdb31",
+								"3c95cdae2503185d",
+								"406acd342e51797d",
+								"3c8169bb78cf0a65",
+								"3777a2f9c10ee4ef"
+							],
+							"groupids": []
+						}
+					},
+					{
+						"permission": "SERIES_MANAGEMENT",
+						"rule": {
+							"accessType": "RESTRICTED",
+							"userids": [
+								"3e5fe367c59a8425",
+								"4111c8f2b0568452",
+								"3aaed062834712d7",
+								"3c021b9f87c35391",
+								"3ce2a36a9b130c80",
+								"38b70187c0961035",
+								"3c2757916b34e30d",
+								"3d0a1286bc76a84c",
+								"3ad040d2a9d3b50b",
+								"3c07fa69986affd2",
+								"3db8cc416a2cdb31",
+								"3c95cdae2503185d",
+								"406acd342e51797d",
+								"3c8169bb78cf0a65",
+								"3777a2f9c10ee4ef"
+							],
+							"groupids": []
+						}
+					},
+					{
+						"permission": "MODULE_SHARING",
+						"rule": {
+							"accessType": "RESTRICTED",
+							"userids": [
+								"3e5fe367c59a8425",
+								"4111c8f2b0568452",
+								"3aaed062834712d7",
+								"3c021b9f87c35391",
+								"3ce2a36a9b130c80",
+								"38b70187c0961035",
+								"3c2757916b34e30d",
+								"3d0a1286bc76a84c",
+								"3ad040d2a9d3b50b",
+								"3c07fa69986affd2",
+								"3db8cc416a2cdb31",
+								"3c95cdae2503185d",
+								"406acd342e51797d",
+								"3c8169bb78cf0a65",
+								"3777a2f9c10ee4ef"
+							],
+							"groupids": []
+						}
+					},
+					{
+						"permission": "CONTENT_SHARING_VIA_GROUP",
+						"rule": {
+							"accessType": "RESTRICTED",
+							"userids": [
+								"3e5fe367c59a8425",
+								"4111c8f2b0568452",
+								"3aaed062834712d7",
+								"3c021b9f87c35391",
+								"3ce2a36a9b130c80",
+								"40729510378caf98",
+								"38b70187c0961035",
+								"3c2757916b34e30d",
+								"3d0a1286bc76a84c",
+								"3ad040d2a9d3b50b",
+								"3c07fa69986affd2",
+								"3db8cc416a2cdb31",
+								"3c95cdae2503185d",
+								"406acd342e51797d",
+								"3c8169bb78cf0a65",
+								"3777a2f9c10ee4ef"
+							],
+							"groupids": []
+						}
+					},
+					{
+						"permission": "MODULE_VIEW_ANALYTICS",
+						"rule": {
+							"accessType": "RESTRICTED",
+							"userids": [
+								"3e5fe367c59a8425",
+								"4111c8f2b0568452",
+								"3aaed062834712d7",
+								"3c021b9f87c35391",
+								"3ce2a36a9b130c80",
+								"38b70187c0961035",
+								"3c2757916b34e30d",
+								"3d0a1286bc76a84c",
+								"3ad040d2a9d3b50b",
+								"3c07fa69986affd2",
+								"3db8cc416a2cdb31",
+								"3c95cdae2503185d",
+								"406acd342e51797d",
+								"3c8169bb78cf0a65",
+								"427d9fd62daf3f17",
+								"3777a2f9c10ee4ef"
+							],
+							"groupids": []
+						}
 					}
-				},
+				]
+			}
+		},
+		"gameStatic": {
+			"type": 1001,
+			"mtentityType": 200,
+			"name": "Key Messages",
+			"desc": "Dr Tan is a general practitionar",
+			"createdBy": "4194ef2d43d7df97",
+			"creationTime": 1526037577,
+			"state_value": "2",
+			"mappedSeries": ["938666376514787574"],
+			"thumbObj": {
+				"type": 81,
+				"object": "932804160147584819",
+				"title": "Pitch Perfect"
+			},
+			"defaultThumbObj": {
+				"type": 81,
+				"object": "THUMB_MISSION3",
+				"title": ""
+			},
+			"companyId": "862238801376255550",
+			"dueDate": {
+				"dueDateType": "SPECIFIC_DATE",
+				"value": 1524583800,
+				"dueDateExpiryAction": "NONE"
+			},
+			"lastPublishedVersion": 0,
+			"parentList": [
 				{
-					"permission": "MODULE_MANAGEMENT",
-					"rule": {
-						"accessType": "RESTRICTED",
-						"userids": [
-							"3e5fe367c59a8425",
-							"4111c8f2b0568452",
-							"3aaed062834712d7",
-							"3c021b9f87c35391",
-							"3ce2a36a9b130c80",
-							"38b70187c0961035",
-							"3c2757916b34e30d",
-							"3d0a1286bc76a84c",
-							"3ad040d2a9d3b50b",
-							"3c07fa69986affd2",
-							"3db8cc416a2cdb31",
-							"3c95cdae2503185d",
-							"406acd342e51797d",
-							"3c8169bb78cf0a65",
-							"3777a2f9c10ee4ef"
-						],
-						"groupids": []
-					}
-				},
-				{
-					"permission": "SERIES_MANAGEMENT",
-					"rule": {
-						"accessType": "RESTRICTED",
-						"userids": [
-							"3e5fe367c59a8425",
-							"4111c8f2b0568452",
-							"3aaed062834712d7",
-							"3c021b9f87c35391",
-							"3ce2a36a9b130c80",
-							"38b70187c0961035",
-							"3c2757916b34e30d",
-							"3d0a1286bc76a84c",
-							"3ad040d2a9d3b50b",
-							"3c07fa69986affd2",
-							"3db8cc416a2cdb31",
-							"3c95cdae2503185d",
-							"406acd342e51797d",
-							"3c8169bb78cf0a65",
-							"3777a2f9c10ee4ef"
-						],
-						"groupids": []
-					}
-				},
-				{
-					"permission": "MODULE_SHARING",
-					"rule": {
-						"accessType": "RESTRICTED",
-						"userids": [
-							"3e5fe367c59a8425",
-							"4111c8f2b0568452",
-							"3aaed062834712d7",
-							"3c021b9f87c35391",
-							"3ce2a36a9b130c80",
-							"38b70187c0961035",
-							"3c2757916b34e30d",
-							"3d0a1286bc76a84c",
-							"3ad040d2a9d3b50b",
-							"3c07fa69986affd2",
-							"3db8cc416a2cdb31",
-							"3c95cdae2503185d",
-							"406acd342e51797d",
-							"3c8169bb78cf0a65",
-							"3777a2f9c10ee4ef"
-						],
-						"groupids": []
-					}
-				},
-				{
-					"permission": "CONTENT_SHARING_VIA_GROUP",
-					"rule": {
-						"accessType": "RESTRICTED",
-						"userids": [
-							"3e5fe367c59a8425",
-							"4111c8f2b0568452",
-							"3aaed062834712d7",
-							"3c021b9f87c35391",
-							"3ce2a36a9b130c80",
-							"40729510378caf98",
-							"38b70187c0961035",
-							"3c2757916b34e30d",
-							"3d0a1286bc76a84c",
-							"3ad040d2a9d3b50b",
-							"3c07fa69986affd2",
-							"3db8cc416a2cdb31",
-							"3c95cdae2503185d",
-							"406acd342e51797d",
-							"3c8169bb78cf0a65",
-							"3777a2f9c10ee4ef"
-						],
-						"groupids": []
-					}
-				},
-				{
-					"permission": "MODULE_VIEW_ANALYTICS",
-					"rule": {
-						"accessType": "RESTRICTED",
-						"userids": [
-							"3e5fe367c59a8425",
-							"4111c8f2b0568452",
-							"3aaed062834712d7",
-							"3c021b9f87c35391",
-							"3ce2a36a9b130c80",
-							"38b70187c0961035",
-							"3c2757916b34e30d",
-							"3d0a1286bc76a84c",
-							"3ad040d2a9d3b50b",
-							"3c07fa69986affd2",
-							"3db8cc416a2cdb31",
-							"3c95cdae2503185d",
-							"406acd342e51797d",
-							"3c8169bb78cf0a65",
-							"427d9fd62daf3f17",
-							"3777a2f9c10ee4ef"
-						],
-						"groupids": []
-					}
+					"series": "938666376514787574",
+					"displayOrder": 1523522054,
+					"milestones": []
 				}
-			]
-		}
-	},
-	"gameStatic": {
-		"type": 1001,
-		"mtentityType": 200,
-		"name": "Key Messages",
-		"desc": "Dr Tan is a general practitionar",
-		"createdBy": "4194ef2d43d7df97",
-		"creationTime": 1526037577,
-		"state_value": "2",
-		"mappedSeries": ["938666376514787574"],
-		"thumbObj": {
-			"type": 81,
-			"object": "932804160147584819",
-			"title": "Pitch Perfect"
-		},
-		"defaultThumbObj": {
-			"type": 81,
-			"object": "THUMB_MISSION3",
-			"title": ""
-		},
-		"companyId": "862238801376255550",
-		"dueDate": {
-			"dueDateType": "SPECIFIC_DATE",
-			"value": 1524583800,
-			"dueDateExpiryAction": "NONE"
-		},
-		"lastPublishedVersion": 0,
-		"parentList": [
-			{
-				"series": "938666376514787574",
-				"displayOrder": 1523522054,
-				"milestones": []
-			}
-		],
-		"docs": {},
-		"reviewer": {
-			"canEditReview": true,
-			"allowOverallFeedback": true,
-			"canAskForReattempt": false,
-			"assignmentRules": [
-				{
-					"REVIEWER_1": {
-						"type": "ADHOC",
-						"value": null
+			],
+			"docs": {},
+			"reviewer": {
+				"canEditReview": true,
+				"allowOverallFeedback": true,
+				"canAskForReattempt": false,
+				"assignmentRules": [
+					{
+						"REVIEWER_1": {
+							"type": "ADHOC",
+							"value": null
+						}
 					}
+				]
+			},
+			"transcriptionEnabled": "TRUE",
+			"learner": {
+				"canReattempt": false
+			},
+			"topSubmission": {
+				"displayCriteria": "AFTER_SUBMISSION",
+				"selectionCriteria": {},
+				"cutoff": 600
+			}
+		},
+		"gameSettings": {
+			"type": 1000,
+			"gameId": "999549387255242101",
+			"isPublished": false,
+			"companyId": "862238801376255550",
+			"mtentityType": 250,
+			"scoring": {
+				"cutoffScore": 3,
+				"criteria": {
+					"allParameters": true
 				}
-			]
+			},
+			"certificate": {
+				"score": 40,
+				"enabled": true,
+				"validity": {
+					"value": -1,
+					"notify": ""
+				}
+			},
+			"autoRedo": true
 		},
-		"transcriptionEnabled": "TRUE",
-		"learner": {
-			"canReattempt": false
-		},
-		"topSubmission": {
-			"displayCriteria": "AFTER_SUBMISSION",
-			"selectionCriteria": {},
-			"cutoff": 600
-		}
-	},
-	"gameSettings": {
-		"type": 1000,
-		"gameId": "999549387255242101",
-		"isPublished": false,
-		"companyId": "862238801376255550",
-		"mtentityType": 250,
-		"scoring": {
-			"cutoffScore": 3,
-			"criteria": {
-				"allParameters": true
-			}
-		},
-		"certificate": {
-			"score": 40,
-			"enabled": true,
-			"validity": {
-				"value": -1,
-				"notify": ""
-			}
-		},
-		"autoRedo": true
-	},
-	"gameData": {
-		"type": 1002,
-		"gameId": "999549387255242101",
-		"companyId": "862238801376255550",
-		"playableId": "c123",
-		"playableIdType": "300",
-		"stats": {
-			"total": null,
-			"categoryStats": {},
-			"learningContentDetailedStats": null
-		},
-		"maxScore": 500,
-		"playableObject":
-			{
+		"gameData": {
+			"type": 1002,
+			"gameId": "999549387255242101",
+			"companyId": "862238801376255550",
+			"playableId": "c123",
+			"playableIdType": "300",
+			"stats": {
+				"total": null,
+				"categoryStats": {},
+				"learningContentDetailedStats": null
+			},
+			"maxScore": 500,
+			"playableObject": {
 				"id": "cr123",
 				"type": 1010,
 				"gameId": "999549387255242101",
@@ -280,9 +283,7 @@
 									"id": "f123",
 									"type": 1013,
 									"dependOn": [],
-									"node":{
-
-									}
+									"node": {}
 								}
 							]
 						}
@@ -304,36 +305,37 @@
 								"id": "a123",
 								"dependOn": [],
 								"node": {
-												"type": 1015,
-												"id": "a123",
-												"children": [],
-												"createdBy": "41739275bd2ffbf0",
-												"createdAt": 1526016201,
-												"updatedAt": 1526039319,
-												"gameId": "999549387255242101",
-												"staticNode": {
-													"id": "as123",
-													"type": 240,
-													"obj": {
-														"createdAt": 1526016201,
-														"name": "",
-														"updatedAt": 1526016201,
-														"desc": "",
-														"staticVersion": 1,
-														"gameId": "999549387255242101",
-														"companyId": "862238801376255550",
-														"type": 40,
-														"id": "as123",
-														"targetLength": null
-													}
-												},
-												"pptUploadByAdmin": false,
-												"pptMedia": null
+									"type": 1015,
+									"id": "a123",
+									"children": [],
+									"createdBy": "41739275bd2ffbf0",
+									"createdAt": 1526016201,
+									"updatedAt": 1526039319,
+									"gameId": "999549387255242101",
+									"staticNode": {
+										"id": "as123",
+										"type": 240,
+										"obj": {
+											"createdAt": 1526016201,
+											"name": "",
+											"updatedAt": 1526016201,
+											"desc": "",
+											"staticVersion": 1,
+											"gameId": "999549387255242101",
+											"companyId": "862238801376255550",
+											"type": 40,
+											"id": "as123",
+											"targetLength": null
+										}
+									},
+									"pptUploadByAdmin": false,
+									"pptMedia": null
 								}
 							}
 						]
 					}
 				]
 			}
+		}
 	}
 }

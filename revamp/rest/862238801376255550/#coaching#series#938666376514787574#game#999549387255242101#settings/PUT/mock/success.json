@@ -1,24 +1,29 @@
 {
-	"gameSettings": {
-		"type": 20,
-		"gameId": "999549387255242101",
-		"isPublished": false,
-		"companyId": "862238801376255550",
-		"mtentityType": 250,
-		"scoring": {
-			"cutoffScore": 3,
-			"criteria": {
-				"allParameters": true
-			}
-		},
-		"certificate": {
-			"score": 40,
-			"enabled": true,
-			"validity": {
-				"value": -1,
-				"notify": ""
-			}
-		},
-		"autoRedo": true
+	"statusCode": 200,
+	"statusMsg": null,
+	"requestId": "1528487438185.XzzMK.192.168.0.114",
+	"object": {
+		"gameSettings": {
+			"type": 20,
+			"gameId": "999549387255242101",
+			"isPublished": false,
+			"companyId": "862238801376255550",
+			"mtentityType": 250,
+			"scoring": {
+				"cutoffScore": 3,
+				"criteria": {
+					"allParameters": true
+				}
+			},
+			"certificate": {
+				"score": 40,
+				"enabled": true,
+				"validity": {
+					"value": -1,
+					"notify": ""
+				}
+			},
+			"autoRedo": true
+		}
 	}
 }
