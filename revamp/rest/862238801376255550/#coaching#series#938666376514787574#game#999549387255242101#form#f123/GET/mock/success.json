@@ -4,6 +4,39 @@
 	"requestId": "1530268403638.Mlj96.192.168.0.114",
 	"object": {
 		"nodes": {
+			"f123": {
+				"type": 1013,
+				"cas_val": 1528471518336581632,
+				"id": "f123",
+				"children": [
+					{
+						"id": "s123",
+						"node": null,
+						"type": 1014,
+						"dependOn": []
+					},
+					{
+						"id": "s456",
+						"node": null,
+						"type": 1013,
+						"dependOn": []
+					}
+				],
+				"staticNode": {
+					"id": "fs123",
+					"type": 1043,
+					"obj": {
+						"type": 1043,
+						"cas_val": 1527145164177408000,
+						"id": "fs123",
+						"createdAt": 1527145164,
+						"updatedAt": 1527145164,
+						"name": "form 1",
+						"desc": null,
+						"staticVersion": 0
+					}
+				}
+			},
 			"s123": {
 				"type": 1014,
 				"cas_val": 1527596447823101952,
