@@ -5,20 +5,20 @@
 	"object": {
 		"nodes": [
 			{
-				"old": "ep1",
-				"new": null
+				"_1": "ep1",
+				"_2": null
 			},
 			{
-				"old": "ep2",
-				"new": null
+				"_1": "ep2",
+				"_2": null
 			},
 			{
-				"old": "s123",
-				"new": null
+				"_1": "s123",
+				"_2": null
 			},
 			{
-				"old": "f123",
-				"new": {
+				"_1": "f123",
+				"_2": {
 					"isPublished": false,
 					"type": 1013,
 					"id": "f123",

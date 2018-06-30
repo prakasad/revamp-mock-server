@@ -5,12 +5,12 @@
 	"object": {
 		"nodes": [
 			{
-				"old": "ep1",
-				"new": null
+				"_1": "ep1",
+				"_2": null
 			},
 			{
-				"old": null,
-				"new": {
+				"_1": null,
+				"_2": {
 					"id": "s123",
 					"type": 1014,
 					"dependOn": [],

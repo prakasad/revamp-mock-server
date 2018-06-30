@@ -5,8 +5,8 @@
 	"object": {
 		"nodes": [
 			{
-				"old": "ep1",
-				"new": {
+				"_1": "ep1",
+				"_2": {
 					"id": "ep1",
 					"isPublished": false,
 					"children": [],
@@ -42,8 +42,8 @@
 				}
 			},
 			{
-				"old": "ep2",
-				"new": {
+				"_1": "ep2",
+				"_2": {
 					"id": "ep2",
 					"isPublished": false,
 					"children": [],

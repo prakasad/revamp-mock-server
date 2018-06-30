@@ -5,8 +5,8 @@
 	"object": {
 		"nodes": [
 			{
-				"old": null,
-				"new": {
+				"_1": null,
+				"_2": {
 					"id": "ep5",
 					"type": 1031,
 					"isPublished": false,
@@ -42,8 +42,8 @@
 				}
 			},
 			{
-				"old": "s123",
-				"new": {
+				"_1": "s123",
+				"_2": {
 					"id": "s123",
 					"dependOn": [],
 					"type": 1014,
