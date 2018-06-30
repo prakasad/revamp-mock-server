@@ -7,26 +7,45 @@
 			{
 				"_1": null,
 				"_2": {
-					"id": "s789",
+					"id": "s456",
 					"type": 1014,
 					"dependOn": [],
 					"node": {
 						"isPublished": false,
-						"children": [],
+						"children": [
+							{
+								"id": "ep3",
+								"node": null,
+								"type": 1031,
+								"dependOn": []
+							},
+							{
+								"id": "ep4",
+								"node": null,
+								"type": 1030,
+								"dependOn": []
+							},
+							{
+								"id": "ep5",
+								"node": null,
+								"type": 1031,
+								"dependOn": []
+							}
+						],
 						"createdBy": "41739275bd2ffbf0",
 						"createdAt": "1526016201",
 						"updatedAt": "1526016201",
 						"gameId": "999549387255242101",
 						"cloneParent": null,
 						"staticNode": {
-							"id": "ss789",
+							"id": "ss456",
 							"type": 1044,
 							"obj": {
 								"type": 1044,
-								"id": "ss789",
+								"id": "ss456",
 								"createdAt": 1526037472,
 								"updatedAt": 1526037491,
-								"name": "Section three",
+								"name": "Section two",
 								"desc": null
 							}
 						},
@@ -36,47 +55,40 @@
 				}
 			},
 			{
-				"_1": "f123",
+				"_1": null,
 				"_2": {
+					"id": "ep5",
 					"isPublished": false,
-					"type": 1013,
-					"id": "f123",
-					"children": [
-						{
-							"id": "s123",
-							"type": 1014,
-							"dependOn": []
-						},
-						{
-							"id": "s456",
-							"type": 1014,
-							"dependOn": []
-						},
-						{
-							"id": "s789",
-							"type": 1014,
-							"dependOn": []
-						}
-					],
+					"children": [],
 					"createdBy": "41739275bd2ffbf0",
 					"createdAt": "1526016201",
 					"updatedAt": "1526016201",
 					"gameId": "999549387255242101",
 					"cloneParent": null,
+					"type": 1031,
 					"staticNode": {
-						"id": "fs123",
-						"type": 1043,
+						"id": "eps5",
+						"type": 1061,
 						"obj": {
-							"type": 1043,
-							"id": "fs123",
+							"type": 1061,
+							"id": "eps5",
 							"createdAt": 1526037472,
 							"updatedAt": 1526037491,
-							"name": null,
-							"desc": null
+							"name": "one",
+							"desc": null,
+							"guidanceEnabled": true,
+							"guidance": {},
+							"allowComments": false,
+							"allowRemediations": true,
+							"guidanceDesc": null,
+							"keywords": null
 						}
 					},
-					"unlockStrategy": 0,
-					"evaluationType": "ASSESSMENT"
+					"mandatory": true,
+					"score": 500,
+					"allowNA": true,
+					"low": 0,
+					"high": 5
 				}
 			}
 		]
