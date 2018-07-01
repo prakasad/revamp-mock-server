@@ -4,11 +4,11 @@
  	"children": [{
  		"id": "s123",
 		"dependOn": [],
-		"type": 1014,
+		"type": 1014
  	},{
  		"id": "s456",
 		"dependOn": [],
-		"type": 1014,
+		"type": 1014
  	}]
  }
 }
