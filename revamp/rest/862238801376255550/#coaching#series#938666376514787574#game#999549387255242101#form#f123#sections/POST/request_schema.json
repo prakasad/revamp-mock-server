@@ -1,10 +1,9 @@
 {
 	"node": {
-		"type": 1014,
-		"displayIndex": "",
-		"staticNode":  {
-			"type": 123,
-			"name": "lah balc"
-		}
-	}
+		"type": 1014
+	},
+	"staticNode":{
+		"type" : 1044
+	},
+	"displayIndex" : 10
 }

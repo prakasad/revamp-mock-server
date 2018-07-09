@@ -1,3 +1,9 @@
 {
-	"type": 1033
+	"node": {
+		"type": 1014
+	},
+	"staticNode":{
+		"type" : 1044
+	},
+	"displayIndex" : 10
 }
