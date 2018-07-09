@@ -1,13 +1,12 @@
-"ep1": {
-	"id": "eps123",
-	"obj": {
-		"mandatory": true
+{
+	"evalParams":{
+		"ep1": {
+			"type" : 1030,
+			"mandatory": true
+		},
+		"ep2": {
+			"type" : 1031,
+			"mandatory": false
+		}
 	}
-},
-"ep2": {
-	"id": "eps345",
-	"obj": {
-		"mandatory": false
-	}
-}
 }
