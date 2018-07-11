@@ -124,6 +124,32 @@
 				"createdAt": 1527572132,
 				"updatedAt": 1527596449,
 				"cloneParent": "999656443724058511",
+				"options": [
+					{
+						"id": "0",
+						"score": 100
+					},
+					{
+						"id": "1",
+						"score": 200
+					},
+					{
+						"id": "2",
+						"score": 200
+					},
+					{
+						"id": "3",
+						"score": 200
+					},
+					{
+						"id": "4",
+						"score": 200
+					},
+					{
+						"id": "5",
+						"score": 200
+					}
+				],
 				"staticNode": {
 					"id": "eps1",
 					"type": 1061,
@@ -137,7 +163,14 @@
 						"desc": null,
 						"staticVersion": 0,
 						"guidanceEnabled": false,
-						"guidance": {},
+						"guidance": {
+							"0": "Zero",
+							"1": "one",
+							"2": "two",
+							"3": "three",
+							"4": "Four",
+							"5": "Five"
+						},
 						"allowComments": true,
 						"allowRemediations": false,
 						"guidanceDesc": null,

@@ -160,7 +160,7 @@
 		},
 		"gameStatic": {
 			"type": 1001,
-			"mtentityType": 200,
+			"mtentityType": 9,
 			"name": "Key Messages",
 			"desc": "Dr Tan is a general practitionar",
 			"createdBy": "4194ef2d43d7df97",
