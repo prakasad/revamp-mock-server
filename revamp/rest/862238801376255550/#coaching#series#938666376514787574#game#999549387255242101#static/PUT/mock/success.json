@@ -39,7 +39,7 @@
 			"reviewer": {
 				"canEditReview": true,
 				"allowOverallFeedback": true,
-				"canAskForReattempt": false,
+				"canAskForReattempt": true,
 				"assignmentRules": [
 					{
 						"REVIEWER_1": {
@@ -49,7 +49,7 @@
 					}
 				]
 			},
-			"transcriptionEnabled": "TRUE",
+			"transcriptionEnabled": "FALSE",
 			"learner": {
 				"canReattempt": false
 			},
