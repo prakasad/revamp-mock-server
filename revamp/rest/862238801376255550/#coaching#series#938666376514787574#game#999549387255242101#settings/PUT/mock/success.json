@@ -10,9 +10,10 @@
 			"companyId": "862238801376255550",
 			"mtentityType": 250,
 			"scoring": {
-				"cutoffScore": 9,
+				"cutoffScore": 3,
+				"enabled": true,
 				"criteria": {
-					"allParameters": true
+				"allParameters": true
 				}
 			},
 			"certificate": {

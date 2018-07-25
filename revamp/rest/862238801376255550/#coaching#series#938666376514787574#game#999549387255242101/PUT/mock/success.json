@@ -160,7 +160,7 @@
 		},
 		"gameStatic": {
 			"type": 1001,
-			"mtentityType": 10,
+			"mtentityType": 200,
 			"name": "Key Messages",
 			"desc": "Dr Tan is a general practitionar",
 			"createdBy": "4194ef2d43d7df97",
@@ -205,7 +205,7 @@
 					}
 				]
 			},
-			"transcriptionEnabled": "TRUE",
+			"transcriptionEnabled": "FALSE",
 			"learner": {
 				"canReattempt": false
 			},
@@ -229,7 +229,7 @@
 			},
 			"certificate": {
 				"score": 40,
-				"enabled": false,
+				"enabled": true,
 				"validity": {
 					"value": -1,
 					"notify": ""
@@ -304,7 +304,6 @@
 							{
 								"id": "a123",
 								"dependOn": [],
-								"type": 1015,
 								"node": {
 									"type": 1015,
 									"id": "a123",
@@ -318,9 +317,9 @@
 										"type": 240,
 										"obj": {
 											"createdAt": 1526016201,
-											"name": "Demo Activity",
+											"name": "",
 											"updatedAt": 1526016201,
-											"desc": "Demo Activity Description",
+											"desc": "",
 											"staticVersion": 1,
 											"gameId": "999549387255242101",
 											"companyId": "862238801376255550",

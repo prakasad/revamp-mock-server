@@ -10,48 +10,46 @@
 					"id": "s456",
 					"type": 1014,
 					"dependOn": [],
-					"node": {
-						"isPublished": false,
-						"children": [
-							{
-								"id": "ep3",
-								"node": null,
-								"type": 1031,
-								"dependOn": []
-							},
-							{
-								"id": "ep4",
-								"node": null,
-								"type": 1030,
-								"dependOn": []
-							},
-							{
-								"id": "ep5",
-								"node": null,
-								"type": 1031,
-								"dependOn": []
-							}
-						],
-						"createdBy": "41739275bd2ffbf0",
-						"createdAt": "1526016201",
-						"updatedAt": "1526016201",
-						"gameId": "999549387255242101",
-						"cloneParent": null,
-						"staticNode": {
-							"id": "ss456",
-							"type": 1044,
-							"obj": {
-								"type": 1044,
-								"id": "ss456",
-								"createdAt": 1526037472,
-								"updatedAt": 1526037491,
-								"name": "Section two",
-								"desc": null
-							}
+					"isPublished": false,
+					"children": [
+						{
+							"id": "ep3",
+							"node": null,
+							"type": 1031,
+							"dependOn": []
 						},
-						"unlockStrategy": 0,
-						"evaluationType": "ASSESSMENT"
-					}
+						{
+							"id": "ep4",
+							"node": null,
+							"type": 1030,
+							"dependOn": []
+						},
+						{
+							"id": "ep5",
+							"node": null,
+							"type": 1031,
+							"dependOn": []
+						}
+					],
+					"createdBy": "41739275bd2ffbf0",
+					"createdAt": "1526016201",
+					"updatedAt": "1526016201",
+					"gameId": "999549387255242101",
+					"cloneParent": null,
+					"staticNode": {
+						"id": "ss456",
+						"type": 1044,
+						"obj": {
+							"type": 1044,
+							"id": "ss456",
+							"createdAt": 1526037472,
+							"updatedAt": 1526037491,
+							"name": "Section two",
+							"desc": null
+						}
+					},
+					"unlockStrategy": 0,
+					"evaluationType": "ASSESSMENT"
 				}
 			},
 			{
