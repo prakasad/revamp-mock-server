@@ -48,14 +48,22 @@
 				}
 			]
 		},
-		"transcriptionEnabled": "TRUE",
+		"transcriptionEnabled": "FALSE",
 		"learner": {
 			"canReattempt": false
 		},
 		"topSubmission": {
+			"enabled": true,
 			"displayCriteria": "AFTER_SUBMISSION",
-			"selectionCriteria": {},
+			"selectionCriteria": {
+			  "selectonValue": "MANUALLY"
+			},
+			"filterCriteria":{
+			  "filterValue" : "FILTER",
+			  "filterOption": "Reporting Manager"
+			},
 			"cutoff": 600
-		}
+		},
+		"allowApproveDisapprove": true
 	}
 }

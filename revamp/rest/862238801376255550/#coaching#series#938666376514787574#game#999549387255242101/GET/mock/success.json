@@ -229,7 +229,7 @@
 			},
 			"certificate": {
 				"score": 40,
-				"enabled": true,
+				"enabled": false,
 				"validity": {
 					"value": -1,
 					"notify": ""

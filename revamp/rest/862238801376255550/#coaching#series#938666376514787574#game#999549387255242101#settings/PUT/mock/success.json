@@ -11,12 +11,13 @@
 			"mtentityType": 250,
 			"scoring": {
 				"cutoffScore": 3,
+				"enabled": true,
 				"criteria": {
-					"allParameters": true
+				"allParameters": true
 				}
 			},
 			"certificate": {
-				"score": 40,
+				"score": 70,
 				"enabled": true,
 				"validity": {
 					"value": -1,
