@@ -1,0 +1,19 @@
+{
+	"learner1": [
+		{
+			"oldReviewerId": "or1",
+			"newReviewerId": "nr1"
+		},
+		{
+			"oldReviewerId": "or2",
+			"newReviewerId": "nr2"
+		}
+	],
+	"learner2": [
+		{
+			"oldReviewerId": "or2",
+			"newReviewerId": "nr2"
+		}
+	],
+	"index": "TWO"
+}

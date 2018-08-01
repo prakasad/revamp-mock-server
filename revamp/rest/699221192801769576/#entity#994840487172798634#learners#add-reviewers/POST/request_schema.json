@@ -5,13 +5,12 @@
 	],
 	"reviewers": [
 		{
-			"id": "rId1",
+			"reviewerId": "rId1",
 			"index": "ONE"
 		},
 		{
-			"id": "rId2",
+			"reviewerId": "rId2",
 			"index": "TWO"
 		}
-	],
-	"replace": false
+	]
 }

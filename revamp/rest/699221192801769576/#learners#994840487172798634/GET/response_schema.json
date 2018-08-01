@@ -16,7 +16,8 @@
 			"reviewers": [
 				{
 					"rId": "id",
-					"status": "PENDING"
+					"status": "PENDING",
+					"index":"ONE"
 				}
 			],
 			"score": 100,
