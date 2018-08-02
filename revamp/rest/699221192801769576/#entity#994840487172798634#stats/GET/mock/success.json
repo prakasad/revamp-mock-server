@@ -1,1 +1,7 @@
-{}
+{
+	"all":20,
+	"unappointed":4,
+	"unscheduled":4,
+	"scheduled":8,
+	"closed":5
+}
