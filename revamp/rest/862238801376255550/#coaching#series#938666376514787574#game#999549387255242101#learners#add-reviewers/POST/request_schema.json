@@ -1,16 +1,9 @@
 {
-	"learners": [
-		"lId1",
-		"lId2"
+	"lId": [
+		"r1",
+		"r2"
 	],
-	"reviewers": [
-		{
-			"reviewerId": "rId1",
-			"index": "ONE"
-		},
-		{
-			"reviewerId": "rId2",
-			"index": "TWO"
-		}
+	"lId2": [
+		"r2"
 	]
 }
