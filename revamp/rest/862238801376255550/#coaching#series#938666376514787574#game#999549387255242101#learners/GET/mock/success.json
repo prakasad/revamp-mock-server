@@ -184,17 +184,11 @@
 		{
 			"id": "lId6",
 			"reviewers": [
-				{
-					"rId": "r1",
-					"sessionState": "UNSCHEDULED",
-					"index": "ONE",
-					"moduleState": "OPEN"
-				}
+
 			],
 			"numSessions": 11,
-			"score": 100,
-			"lastReviewedOn": 1533108653467,
-			"nextSession": 1533108653467
+			"score": 1000,
+			"lastReviewedOn": 1533108653467
 		},
 		{
 			"id": "lId7",
