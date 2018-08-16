@@ -1,0 +1,12 @@
+{
+  "desc": "List of sessions for a learner - Game * Learner, Can have filters and sort",
+  "security": [],
+  "protected": false,
+  "status": "",
+  "response": {
+    "statusCode": 200,
+    "schema": {
+      "type": "application/json"
+    }
+  }
+}

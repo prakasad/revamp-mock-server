@@ -1,0 +1,12 @@
+{
+  "desc": "Get Session Detail - For Game * Learner * Session, send session summary and tree",
+  "security": [],
+  "protected": false,
+  "status": "",
+  "response": {
+    "statusCode": 200,
+    "schema": {
+      "type": "application/json"
+    }
+  }
+}
