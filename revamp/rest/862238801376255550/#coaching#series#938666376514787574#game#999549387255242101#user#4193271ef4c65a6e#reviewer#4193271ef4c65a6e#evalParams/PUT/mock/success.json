@@ -1,0 +1,43 @@
+{
+	"statusCode": 200,
+	"statusMsg": null,
+	"requestId": "1528711121335.rRoYJ.192.168.0.114",
+	"stackTrace": null,
+	"object":{
+		"id": "evalparam-ep1",
+		"type": "USER_EVAL_PARAM_RATING",
+		"score": 400,
+		"maxScore": 500,
+		"version": 1,
+		"session": 1,
+		"userId": "4193271ef4c65a6e",
+		"companyId": "862238801376255550",
+		"gameId": "999549387255242101",
+		"createdAt": 1517398078,
+		"updatedAt": 1517398078,
+		"refNode": {
+			"id": "evalparam-ep1",
+			"type": 1031,
+			"nodeVo": null,
+		},
+		"children": null,
+		"reviewerEvaluationVo": {
+			"score": 400,
+			"maxScore": 500,
+			"evaluationVersion": 1,
+			"comment": "test",
+			"sendRemediation": false,
+			"remediations": [],
+			"isNA": false
+		},
+		"draftReviewerEvaluationVo": {
+			"score": 400,
+			"maxScore": 500,
+			"evaluationVersion": 1,
+			"comment": "test",
+			"sendRemediation": false,
+			"remediations": [],
+			"isNA": false
+		}
+	}
+}
