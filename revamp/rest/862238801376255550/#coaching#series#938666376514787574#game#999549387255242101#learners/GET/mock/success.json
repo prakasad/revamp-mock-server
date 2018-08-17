@@ -1,26 +1,251 @@
 {
-	"reviewerDetails": [
-		{
-			"id": "r1",
-			"name": "Mighty Reviewer",
-			"profilePic": "https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/16196015_10154888128487744_6901111466535510271_n.png?_nc_cat=0&oh=b5d3d05354c7f787e565411601b526c0&oe=5C077FE9",
-			"email": "scarletoverkill@minion.com"
+	"meta": {
+		"users": {
+			"lId1": {
+				"name": "Learner 1",
+				"profilePic": "https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/16196015_10154888128487744_6901111466535510271_n.png?_nc_cat=0&oh=b5d3d05354c7f787e565411601b526c0&oe=5C077FE9",
+				"email": "paneerbuttermasala1@minion.com"
+			},
+			"lId2": {
+				"name": "Learner 2",
+				"profilePic": "https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/16196015_10154888128487744_6901111466535510271_n.png?_nc_cat=0&oh=b5d3d05354c7f787e565411601b526c0&oe=5C077FE9",
+				"email": "paneerbuttermasala2@minion.com"
+			},
+			"lId3": {
+				"name": "Learner 3",
+				"profilePic": "https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/16196015_10154888128487744_6901111466535510271_n.png?_nc_cat=0&oh=b5d3d05354c7f787e565411601b526c0&oe=5C077FE9",
+				"email": "paneerbuttermasala3@minion.com"
+			},
+			"lId4": {
+				"name": "Learner 4",
+				"profilePic": "https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/16196015_10154888128487744_6901111466535510271_n.png?_nc_cat=0&oh=b5d3d05354c7f787e565411601b526c0&oe=5C077FE9",
+				"email": "paneerbuttermasala4@minion.com"
+			},
+			"lId5": {
+				"name": "Learner 5",
+				"profilePic": "https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/16196015_10154888128487744_6901111466535510271_n.png?_nc_cat=0&oh=b5d3d05354c7f787e565411601b526c0&oe=5C077FE9",
+				"email": "paneerbuttermasala5@minion.com"
+			},
+			"lId6": {
+				"name": "Learner 6",
+				"profilePic": "https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/16196015_10154888128487744_6901111466535510271_n.png?_nc_cat=0&oh=b5d3d05354c7f787e565411601b526c0&oe=5C077FE9",
+				"email": "paneerbuttermasala6@minion.com"
+			},
+			"lId7": {
+				"name": "Learner 7",
+				"profilePic": "https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/16196015_10154888128487744_6901111466535510271_n.png?_nc_cat=0&oh=b5d3d05354c7f787e565411601b526c0&oe=5C077FE9",
+				"email": "paneerbuttermasala7@minion.com"
+			},
+			"lId8": {
+				"name": "Learner 8",
+				"profilePic": "https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/16196015_10154888128487744_6901111466535510271_n.png?_nc_cat=0&oh=b5d3d05354c7f787e565411601b526c0&oe=5C077FE9",
+				"email": "paneerbuttermasala8@minion.com"
+			},
+			"lId9": {
+				"name": "Learner 9",
+				"profilePic": "https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/16196015_10154888128487744_6901111466535510271_n.png?_nc_cat=0&oh=b5d3d05354c7f787e565411601b526c0&oe=5C077FE9",
+				"email": "paneerbuttermasala9@minion.com"
+			},
+			"lId10": {
+				"name": "Learner 10",
+				"profilePic": "https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/16196015_10154888128487744_6901111466535510271_n.png?_nc_cat=0&oh=b5d3d05354c7f787e565411601b526c0&oe=5C077FE9",
+				"email": "paneerbuttermasala10@minion.com"
+			},
+			"r1": {
+				"name": "Voldemort",
+				"profilePic": "https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/16196015_10154888128487744_6901111466535510271_n.png?_nc_cat=0&oh=b5d3d05354c7f787e565411601b526c0&oe=5C077FE9",
+				"email": "no-nose@voldy.com"
+			},
+			"r2": {
+				"name": "Thanos",
+				"profilePic": "https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/16196015_10154888128487744_6901111466535510271_n.png?_nc_cat=0&oh=b5d3d05354c7f787e565411601b526c0&oe=5C077FE9",
+				"email": "hum-panch@thanos.com"
+			},
+			"r3": {
+				"name": "Kamonika",
+				"profilePic": "https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/16196015_10154888128487744_6901111466535510271_n.png?_nc_cat=0&oh=b5d3d05354c7f787e565411601b526c0&oe=5C077FE9",
+				"email": "nika-nika@kamonika.com"
+			},
+			"r4": {
+				"name": "Magneto",
+				"profilePic": "https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/16196015_10154888128487744_6901111466535510271_n.png?_nc_cat=0&oh=b5d3d05354c7f787e565411601b526c0&oe=5C077FE9",
+				"email": "ironman@magnet.com"
+			},
+			"r5": {
+				"name": "Adolf Hitler",
+				"profilePic": "https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/16196015_10154888128487744_6901111466535510271_n.png?_nc_cat=0&oh=b5d3d05354c7f787e565411601b526c0&oe=5C077FE9",
+				"email": "scarletoverkill@minion.com"
+			}
 		}
-	],
-	"learners": [
+	},
+	"data": [
 		{
 			"id": "lId1",
-			"name": "Learner 1",
-			"profilePic": "https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/16196015_10154888128487744_6901111466535510271_n.png?_nc_cat=0&oh=b5d3d05354c7f787e565411601b526c0&oe=5C077FE9",
-			"email": "paneerbuttermasala@minion.com",
 			"reviewers": [
 				{
 					"rId": "r1",
-					"status": "PENDING",
-					"index":"ONE"
+					"sessionState": "UNSCHEDULED",
+					"index": "ONE",
+					"moduleState": "OPEN"
+				},
+				{
+					"rId": "r2",
+					"sessionState": "COMPLETED",
+					"index": "TWO",
+					"moduleState": "CLOSED"
 				}
 			],
-			"numSessions":11,
+			"numSessions": 11,
+			"score": 100,
+			"lastReviewedOn": 1533108653467,
+			"nextSession": 1533108653467
+		},
+		{
+			"id": "lId2",
+			"reviewers": [
+				{
+					"rId": "r1",
+					"sessionState": "UNSCHEDULED",
+					"index": "ONE",
+					"moduleState": "OPEN"
+				},
+				{
+					"rId": "r2",
+					"sessionState": "SCHEDULED",
+					"index": "TWO",
+					"moduleState": "CLOSED"
+				},
+				{
+					"rId": "r3",
+					"sessionState": "REVIEW_IN_PROGRESS",
+					"index": "THREE",
+					"moduleState": "OPEN"
+				},
+				{
+					"rId": "r4",
+					"sessionState": "COMPLETED",
+					"index": "FOUR",
+					"moduleState": "CLOSED"
+				},
+				{
+					"rId": "r5",
+					"sessionState": "COMPLETED",
+					"index": "FIVE",
+					"moduleState": "CLOSED"
+				}
+			],
+			"numSessions": 12,
+			"score": 100,
+			"lastReviewedOn": 1533108653467,
+			"nextSession": 1533108653467
+		},
+		{
+			"id": "lId3",
+			"reviewers": [
+				{
+					"rId": "r1",
+					"sessionState": "UNSCHEDULED",
+					"index": "ONE",
+					"moduleState": "OPEN"
+				}
+			],
+			"numSessions": 11,
+			"score": 100,
+			"lastReviewedOn": 1533108653467,
+			"nextSession": 1533108653467
+		},
+		{
+			"id": "lId4",
+			"reviewers": [
+				{
+					"rId": "r1",
+					"sessionState": "UNSCHEDULED",
+					"index": "ONE",
+					"moduleState": "OPEN"
+				},
+				{
+					"rId": "r3",
+					"sessionState": "SCHEDULED",
+					"index": "FIVE",
+					"moduleState": "OPEN"
+				}
+			],
+			"numSessions": 13,
+			"score": 100,
+			"lastReviewedOn": 1533108653467,
+			"nextSession": 1533108653467
+		},
+		{
+			"id": "lId5",
+			"reviewers": [
+			],
+			"numSessions": 0
+		},
+		{
+			"id": "lId6",
+			"reviewers": [
+
+			],
+			"numSessions": 11,
+			"score": 1000,
+			"lastReviewedOn": 1533108653467
+		},
+		{
+			"id": "lId7",
+			"reviewers": [
+				{
+					"rId": "r1",
+					"sessionState": "UNSCHEDULED",
+					"index": "ONE",
+					"moduleState": "OPEN"
+				}
+			],
+			"numSessions": 11,
+			"score": 100,
+			"lastReviewedOn": 1533108653467,
+			"nextSession": 1533108653467
+		},
+		{
+			"id": "lId8",
+			"reviewers": [
+				{
+					"rId": "r1",
+					"sessionState": "UNSCHEDULED",
+					"index": "ONE",
+					"moduleState": "OPEN"
+				}
+			],
+			"numSessions": 11,
+			"score": 100,
+			"lastReviewedOn": 1533108653467,
+			"nextSession": 1533108653467
+		},
+		{
+			"id": "lId9",
+			"reviewers": [
+				{
+					"rId": "r1",
+					"sessionState": "UNSCHEDULED",
+					"index": "ONE",
+					"moduleState": "OPEN"
+				}
+			],
+			"numSessions": 11,
+			"score": 100,
+			"lastReviewedOn": 1533108653467,
+			"nextSession": 1533108653467
+		},
+		{
+			"id": "lId10",
+			"reviewers": [
+				{
+					"rId": "r1",
+					"sessionState": "UNSCHEDULED",
+					"index": "ONE",
+					"moduleState": "OPEN"
+				}
+			],
+			"numSessions": 11,
 			"score": 100,
 			"lastReviewedOn": 1533108653467,
 			"nextSession": 1533108653467

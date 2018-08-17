@@ -1,54 +1,5 @@
 {
-	"learnerIds": [
-		"l1",
-		"l2"
-	],
-	"oldReviewerId": [
-		"rId1",
-		"rId2"
-	],
-	"newReviewerId": "rId3"
+	"learnerIds":["lId1", "lId2", "lId3"],
+	"oldReviewerId":"r1",
+	"newReviewerId":"r2"
 }
-
-
-RLR
-
-learner entity reviewer index
-
-
-
-
-[
-	{
-		"learnerID": "l1",
-		"oldReviewerId": [
-			"rId1",
-			"rId2"
-		],
-		"newReviewerId": "rId3"
-	},
-	{
-		"learnerID": "l2",
-		"oldReviewerId": [
-			"rId1",
-			"rId2"
-		],
-		"newReviewerId": "rId3"
-	}
-]
-
-[
-	{
-		"learnerID": "l1",
-		"oldReviewer": "rid1",
-		"newRev": "rId3"
-	},
-	{
-		"learnerID": "l1",
-		"oldReviewer": "rid2",
-		"newRev": "rId3"
-	}
-]
-
-l1 -> r1, r2
-l1 -> r3
