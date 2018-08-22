@@ -1,0 +1,9 @@
+{
+	"score": 400,
+	"maxScore": 500,
+	"evaluationVersion": 1,
+	"comment": "test",
+	"sendRemediation": false,
+	"remediations": [],
+	"isNA": false
+}

@@ -1,0 +1,544 @@
+{
+	"statusCode": 200,
+	"statusMsg": null,
+	"requestId": "1528711121335.rRoYJ.192.168.0.114",
+	"stackTrace": null,
+	"object":{
+		"sessionSummary": {
+			"type": "USER_ONE_TO_ONE_COACHING_ENTITY",
+			"version": 1,
+			"session": 1,
+			"userId": "4193271ef4c65a6e",
+			"companyId": "862238801376255550",
+			"gameId": "999549387255242101",
+			"score": 1300,
+			"maxScore": 1500,
+			"freeze": true,
+			"deleted": false,
+			"sessionState": {
+				"current": "COMPLETED",
+				"prev": "REVIEW_IN_PROGRESS",
+				"timestamp": 1517398078
+			},
+			"refUserNode": {
+				"nodeId": null,
+				"type": "USER_ONE_TO_ONE_ACTIVITY",
+				"userNodeVo": null
+			},
+			"createdAt": 1517398078,
+			"updatedAt": 1517398078,
+			"reviewers": {
+				"4193271ef4c65a6f": {
+					"summary": {
+						"type": "USER_REVIEWER_COACHING_ENTITY",
+						"reviewerId": "4193271ef4c65a6f",
+					    "reviewedAt": 1517398078,
+					    "reviewerState": {
+					    	"current": "COMPLETED",
+							"prev": "REVIEW_IN_PROGRESS",
+							"timestamp": 1517398078
+						},
+					    "refUserNode": {
+					    	"nodeId": "form-f1",
+							"type": "USER_FORM",
+							"userNodeVo": null
+					    },
+					    "score": 1300,
+						"maxScore": 1500,
+					    "scheduledAt": 1517398078,
+					    "version": 1,
+						"session": 1,
+						"userId": "4193271ef4c65a6e",
+						"companyId": "862238801376255550",
+						"gameId": "999549387255242101",
+						"createdAt": 1517398078,
+						"updatedAt": 1517398078,
+					},
+					"userNodes": {
+						"form-f1": {
+							"id": "form-f1",
+							"type": "USER_FORM",
+							"score": 1300,
+							"maxScore": 1500,
+							"version": 1,
+							"session": 1,
+							"userId": "4193271ef4c65a6e",
+							"companyId": "862238801376255550",
+							"gameId": "999549387255242101",
+							"createdAt": 1517398078,
+							"updatedAt": 1517398078,
+							"refNode": {
+								"id": "form-f1",
+								"type": 1013,
+								"nodeVo": null,
+							},
+							"children": {
+								"section-s1": {
+									"nodeId": "section-s1", 
+									"userNodeVo": null,
+									"type": "USER_SECTION"
+								},
+								"section-s2": {
+									"nodeId": "section-s2", 
+									"userNodeVo": null,
+									"type": "USER_SECTION"
+								}
+							}
+						},
+						"section-s1": {
+							"id": "section-s1",
+							"type": "USER_SECTION",
+							"score": 900,
+							"maxScore": 1000,
+							"version": 1,
+							"session": 1,
+							"userId": "4193271ef4c65a6e",
+							"companyId": "862238801376255550",
+							"gameId": "999549387255242101",
+							"createdAt": 1517398078,
+							"updatedAt": 1517398078,
+							"refNode": {
+								"id": "section-s1",
+								"type": 1014,
+								"nodeVo": null,
+							},
+							"children": {
+								"evalparam-ep1": {
+									"nodeId": "evalparam-ep1", 
+									"userNodeVo": null,
+									"type": "USER_EVAL_PARAM_RATING"
+								},
+								"evalparam-ep2": {
+									"nodeId": "evalparam-ep2", 
+									"userNodeVo": null,
+									"type": "USER_EVAL_PARAM_BINARY"
+								}
+							}
+						},
+						"section-s2": {
+							"id": "section-s2",
+							"type": "USER_SECTION",
+							"score": 400,
+							"maxScore": 500,
+							"version": 1,
+							"session": 1,
+							"userId": "4193271ef4c65a6e",
+							"companyId": "862238801376255550",
+							"gameId": "999549387255242101",
+							"createdAt": 1517398078,
+							"updatedAt": 1517398078,
+							"refNode": {
+								"id": "section-s2",
+								"type": 1014,
+								"nodeVo": null,
+							},
+							"children": {
+								"evalparam-ep3": {
+									"nodeId": "evalparam-ep3", 
+									"userNodeVo": null,
+									"type": "USER_EVAL_PARAM_RATING"
+								}
+							}
+						},
+						"evalparam-ep1": {
+							"id": "evalparam-ep1",
+							"type": "USER_EVAL_PARAM_RATING",
+							"score": 400,
+							"maxScore": 500,
+							"version": 1,
+							"session": 1,
+							"userId": "4193271ef4c65a6e",
+							"companyId": "862238801376255550",
+							"gameId": "999549387255242101",
+							"createdAt": 1517398078,
+							"updatedAt": 1517398078,
+							"refNode": {
+								"id": "evalparam-ep1",
+								"type": 1031,
+								"nodeVo": null,
+							},
+							"children": null,
+							"reviewerEvaluationVo": {
+								"score": 400,
+								"maxScore": 500,
+								"evaluationVersion": 1,
+								"comment": "test",
+								"sendRemediation": false,
+								"remediations": [],
+								"isNA": false
+							},
+							"draftReviewerEvaluationVo": {
+								"score": 400,
+								"maxScore": 500,
+								"evaluationVersion": 1,
+								"comment": "test",
+								"sendRemediation": false,
+								"remediations": [],
+								"isNA": false
+							}
+						},
+						"evalparam-ep2": {
+							"id": "evalparam-ep2",
+							"type": "USER_EVAL_PARAM_BINARY",
+							"score": 500,
+							"maxScore": 500,
+							"version": 1,
+							"session": 1,
+							"userId": "4193271ef4c65a6e",
+							"companyId": "862238801376255550",
+							"gameId": "999549387255242101",
+							"createdAt": 1517398078,
+							"updatedAt": 1517398078,
+							"refNode": {
+								"id": "evalparam-ep2",
+								"type": 1032,
+								"nodeVo": null,
+							},
+							"children": null,
+							"reviewerEvaluationVo": {
+								"score": 500,
+								"maxScore": 500,
+								"evaluationVersion": 1,
+								"comment": "test2",
+								"sendRemediation": false,
+								"remediations": [],
+								"isNA": false
+							},
+							"draftReviewerEvaluationVo": {
+								"score": 500,
+								"maxScore": 500,
+								"evaluationVersion": 1,
+								"comment": "test2",
+								"sendRemediation": false,
+								"remediations": [],
+								"isNA": false
+							}
+						},
+						"evalparam-ep3": {
+							"id": "evalparam-ep3",
+							"type": "USER_EVAL_PARAM_RATING",
+							"score": 400,
+							"maxScore": 500,
+							"version": 1,
+							"session": 1,
+							"userId": "4193271ef4c65a6e",
+							"companyId": "862238801376255550",
+							"gameId": "999549387255242101",
+							"createdAt": 1517398078,
+							"updatedAt": 1517398078,
+							"refNode": {
+								"id": "evalparam-ep3",
+								"type": 1031,
+								"nodeVo": null,
+							},
+							"children": null,
+							"reviewerEvaluationVo": {
+								"score": 400,
+								"maxScore": 500,
+								"evaluationVersion": 1,
+								"comment": "test3",
+								"sendRemediation": false,
+								"remediations": [],
+								"isNA": false
+							},
+							"draftReviewerEvaluationVo": {
+								"score": 400,
+								"maxScore": 500,
+								"evaluationVersion": 1,
+								"comment": "test3",
+								"sendRemediation": false,
+								"remediations": [],
+								"isNA": false
+							}
+						}
+					}
+				}
+			}
+		},
+		"nodes": {
+			"form-f1": {
+				"type": 1013,
+				"cas_val": 1528471518336581632,
+				"id": "form-f1",
+				"children": [
+					{
+						"id": "section-s1",
+						"node": null,
+						"type": 1014,
+						"dependOn": []
+					},
+					{
+						"id": "section-s2",
+						"node": null,
+						"type": 1014,
+						"dependOn": []
+					}
+				],
+				"staticNode": {
+					"id": "form-f1s",
+					"type": 1043,
+					"obj": {
+						"type": 1043,
+						"cas_val": 1527145164177408000,
+						"id": "form-f1s",
+						"createdAt": 1527145164,
+						"updatedAt": 1527145164,
+						"name": "form 1",
+						"desc": null,
+						"staticVersion": 0
+					}
+				}
+			},
+			"section-s1": {
+				"type": 1014,
+				"cas_val": 1527596447823101952,
+				"id": "section-s1",
+				"children": [
+					{
+						"id": "evalparam-ep1",
+						"node": null,
+						"type": 1031,
+						"dependOn": []
+					},
+					{
+						"id": "evalparam-ep2",
+						"node": null,
+						"type": 1033,
+						"dependOn": []
+					}
+				],
+				"createdBy": "4193271ef4c65a6e",
+				"createdAt": 1527572162,
+				"updatedAt": 1527596447,
+				"cloneParent": "999656522061414618",
+				"staticNode": {
+					"id": "section-s1s",
+					"type": 1044,
+					"obj": {
+						"type": 1044,
+						"cas_val": 1527145164177408000,
+						"id": "section-s1s",
+						"createdAt": 1527145164,
+						"updatedAt": 1527145164,
+						"name": "section 1",
+						"desc": null,
+						"staticVersion": 0
+					}
+				},
+				"unlockStrategy": 0,
+				"evaluationType": "ASSESSMENT"
+			},
+			"section-s2": {
+				"type": 1014,
+				"cas_val": 1527596447823101952,
+				"id": "section-s2",
+				"children": [
+					{
+						"id": "evalparam-ep3",
+						"node": null,
+						"type": 1031,
+						"dependOn": []
+					}
+				],
+				"createdBy": "4193271ef4c65a6e",
+				"createdAt": 1527572162,
+				"updatedAt": 1527596447,
+				"cloneParent": "999656522061414618",
+				"staticNode": {
+					"id": "section-s2s",
+					"type": 1044,
+					"obj": {
+						"type": 1044,
+						"cas_val": 1527145164177408000,
+						"id": "section-s2s",
+						"createdAt": 1527145164,
+						"updatedAt": 1527145164,
+						"name": "section 2",
+						"desc": null,
+						"staticVersion": 0
+					}
+				},
+				"unlockStrategy": 0,
+				"evaluationType": "ASSESSMENT"
+			},
+			"evalparam-ep1": {
+				"type": 1031,
+				"cas_val": 1527596449332264960,
+				"id": "evalparam-ep1",
+				"children": [],
+				"createdBy": "4193271ef4c65a6e",
+				"createdAt": 1527572132,
+				"updatedAt": 1527596449,
+				"cloneParent": "999656443724058511",
+				"options": [
+					{
+						"id": "0",
+						"score": 100
+					},
+					{
+						"id": "1",
+						"score": 200
+					},
+					{
+						"id": "2",
+						"score": 200
+					},
+					{
+						"id": "3",
+						"score": 200
+					},
+					{
+						"id": "4",
+						"score": 200
+					},
+					{
+						"id": "5",
+						"score": 200
+					}
+				],
+				"staticNode": {
+					"id": "evalparam-ep1s",
+					"type": 1061,
+					"obj": {
+						"type": 1061,
+						"cas_val": 1527145164544344064,
+						"id": "evalparam-ep1s",
+						"createdAt": 1527145164,
+						"updatedAt": 1527145164,
+						"name": "ep1",
+						"desc": null,
+						"staticVersion": 0,
+						"guidanceEnabled": false,
+						"guidance": {
+							"0": "Zero",
+							"1": "one",
+							"2": "two",
+							"3": "three",
+							"4": "Four",
+							"5": "Five"
+						},
+						"allowComments": true,
+						"allowRemediations": false,
+						"guidanceDesc": null,
+						"keywords": null
+					}
+				},
+				"mandatory": true,
+				"score": 500,
+				"allowNA": true,
+				"low": 0,
+				"high": 5,
+				"unlockStrategy": 0,
+				"evaluationType": "ASSESSMENT"
+			},
+			"evalparam-ep2": {
+				"type": 1033,
+				"cas_val": 1527596449332264960,
+				"id": "evalparam-ep2",
+				"children": [],
+				"createdBy": "4193271ef4c65a6e",
+				"createdAt": 1527572132,
+				"updatedAt": 1527596449,
+				"cloneParent": "999656443724058511",
+				"options": [
+					{
+						"id": "0",
+						"score": 0
+					},
+					{
+						"id": "1",
+						"score": 500
+					}
+				],
+				"staticNode": {
+					"id": "evalparam-ep2s",
+					"type": 1063,
+					"obj": {
+						"type": 1063,
+						"cas_val": 1527145164544344064,
+						"id": "eps2",
+						"createdAt": 1527145164,
+						"updatedAt": 1527145164,
+						"name": "evalparam-ep2s",
+						"desc": null,
+						"staticVersion": 0,
+						"guidanceEnabled": true,
+						"guidance": {
+							"0": "No",
+							"1": "Yes"
+						},
+						"allowComments": true,
+						"allowRemediations": true,
+						"guidanceDesc": "",
+						"keywords": null
+					}
+				},
+				"mandatory": true,
+				"score": 500,
+				"allowNA": true,
+				"unlockStrategy": 0,
+				"evaluationType": "ASSESSMENT"
+			},
+			"evalparam-ep3": {
+				"type": 1031,
+				"cas_val": 1527596449332264960,
+				"id": "evalparam-ep3",
+				"children": [],
+				"createdBy": "4193271ef4c65a6e",
+				"createdAt": 1527572132,
+				"updatedAt": 1527596449,
+				"cloneParent": "999656443724058511",
+				"staticNode": {
+					"id": "evalparam-ep3s",
+					"type": 1061,
+					"obj": {
+						"type": 1061,
+						"cas_val": 1527145164544344064,
+						"id": "evalparam-ep3s",
+						"createdAt": 1527145164,
+						"updatedAt": 1527145164,
+						"name": "evalparam-ep3s",
+						"desc": null,
+						"staticVersion": 0,
+						"guidanceEnabled": false,
+						"guidance": {},
+						"allowComments": true,
+						"allowRemediations": false,
+						"guidanceDesc": null,
+						"keywords": null
+					}
+				},
+
+				"mandatory": true,
+				"score": 500,
+				"allowNA": true,
+				"low": 0,
+				"high": 5,
+				"unlockStrategy": 0,
+				"evaluationType": "ASSESSMENT"
+			}
+		}
+	},
+	"meta": {
+		"users": {
+			"4193271ef4c65a6e": {
+				"email": "parteek.singla@mindtickle.com",
+				"name": "Parteek Singla",
+				"state": {
+					"current": "ACTIVE",
+					"prev": "DEACTIVATED",
+					"timestamp": 1517398078
+				}
+			},
+			"4193271ef4c65a6f": {
+				"email": "afroz.alam@mindtickle.com",
+				"name": "Afroz Alam",
+				"state": {
+					"current": "ACTIVE",
+					"prev": "DEACTIVATED",
+					"timestamp": 1517398078
+				}
+			}
+		}
+	}
+}

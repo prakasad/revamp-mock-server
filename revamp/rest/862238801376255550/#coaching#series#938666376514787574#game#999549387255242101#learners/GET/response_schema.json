@@ -1,0 +1,29 @@
+{
+	"reviewerDetails": [
+		{
+			"id": "abc",
+			"name": "Name",
+			"profilePic": "url",
+			"email": "email"
+		}
+	],
+	"learners": [
+		{
+			"id": "abc",
+			"name": "Name",
+			"profilePic": "url",
+			"email": "email",
+			"reviewers": [
+				{
+					"rId": "id",
+					"status": "PENDING",
+					"index":"ONE"
+				}
+			],
+			"score": 100,
+			"invitedOn": 123,
+			"attempts": 5,
+			"learnerStatus":"DID_NOT_START"
+		}
+	]
+}

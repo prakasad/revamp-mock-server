@@ -1,0 +1,36 @@
+{
+	"statusCode": 200,
+	"statusMsg": "TODO from CRMS, also implement sort and filters",
+	"requestId": "1528711121335.rRoYJ.192.168.0.114",
+	"stackTrace": null,
+	"object":{
+		"sessions": [{
+			"reviewerId": "4193271ef4c65a6f",
+			"reviewedAt": null,
+			"scheduledAt": 1517598078,
+			"score": null,
+			"version": 1,
+			"session": 2
+		},{
+			"reviewerId": "4193271ef4c65a6f",
+			"reviewedAt": 1517498078,
+			"scheduledAt": 1517398078,
+			"score": 300,
+			"version": 1,
+			"session": 1
+		}]
+	},
+	"meta": {
+		"users": {
+			"4193271ef4c65a6f": {
+				"email": "afroz.alam@mindtickle.com",
+				"name": "Afroz Alam",
+				"state": {
+					"current": "ACTIVE",
+					"prev": "DEACTIVATED",
+					"timestamp": 1517398078
+				}
+			}
+		}
+	}
+}
