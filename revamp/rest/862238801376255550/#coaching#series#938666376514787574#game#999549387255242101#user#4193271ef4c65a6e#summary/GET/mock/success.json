@@ -13,24 +13,24 @@
 			"gameId": "999549387255242101",
 			"createdAt": 1517398078,
 			"updatedAt": 1517398078,
-			"reviewers": {
-				"4193271ef4c65a6f": {
-					"type": "USER_REVIEWER_GAME_SESSION",
-					"reviewerId": "4193271ef4c65a6f",
-					"moduleState": {
-						"current": "COMPLETED",
-						"prev": "ACTIVE",
-						"timestamp": 1517398078
-					},
-					"version": 1,
-					"session": 2,
-					"userId": "4193271ef4c65a6e",
-					"companyId": "862238801376255550",
-					"gameId": "999549387255242101",
-					"createdAt": 1517398078,
-					"updatedAt": 1517398078,
-					"canClose": false
-				}
+		},
+		"reviewerSummaries": {
+			"4193271ef4c65a6f": {
+				"type": "USER_REVIEWER_GAME_SESSION",
+				"reviewerId": "4193271ef4c65a6f",
+				"moduleState": {
+					"current": "COMPLETED",
+					"prev": "ACTIVE",
+					"timestamp": 1517398078
+				},
+				"version": 1,
+				"session": 2,
+				"userId": "4193271ef4c65a6e",
+				"companyId": "862238801376255550",
+				"gameId": "999549387255242101",
+				"createdAt": 1517398078,
+				"updatedAt": 1517398078,
+				"canClose": false
 			}
 		}
 	},
