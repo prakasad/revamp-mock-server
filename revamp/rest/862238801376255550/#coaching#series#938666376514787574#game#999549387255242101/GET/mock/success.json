@@ -166,7 +166,9 @@
 			"createdBy": "4194ef2d43d7df97",
 			"creationTime": 1526037577,
 			"state_value": "2",
-			"mappedSeries": ["938666376514787574"],
+			"mappedSeries": [
+				"938666376514787574"
+			],
 			"thumbObj": {
 				"type": 81,
 				"object": "932804160147584819",
@@ -191,16 +193,19 @@
 					"milestones": []
 				}
 			],
-			"docs": {},
-			"reviewer": {
-				"canEditReview": true,
+			"docs": [],
+			"reviewerSettings": {
+				"canEditReview": false,
 				"allowOverallFeedback": true,
-				"canAskForReattempt": false,
-				"assignmentRules": [
+				"captureLocationOfReview": false,
+				"reviewers": [
 					{
-						"REVIEWER_1": {
-							"type": "ADHOC",
-							"value": null
+						"coachingFrequency": {
+							"value": 3,
+							"unitType": "DAY_OF_MONTH"
+						},
+						"assignmentRule": {
+							"type": 1
 						}
 					}
 				]
