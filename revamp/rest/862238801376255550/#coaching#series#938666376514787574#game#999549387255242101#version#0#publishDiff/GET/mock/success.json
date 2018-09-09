@@ -1,0 +1,69 @@
+{
+   "statusCode": 200,
+   "statusMsg": null,
+   "requestId": "1536038294628.5lZCX.192.168.1.6",
+   "object": {
+      "nodediffSummary": {
+         "1036611335532271212": {
+            "parentType": 1033,
+            "editNodes": [],
+            "deleteNodes": [],
+            "addNodes": []
+         },
+         "1036620937713171942": {
+            "parentType": 1014,
+            "editNodes": [],
+            "deleteNodes": [],
+            "addNodes": []
+         },
+         "1036835459186640274": {
+            "parentType": 1014,
+            "editNodes": [],
+            "deleteNodes": [],
+            "addNodes": []
+         },
+         "1036583647663602018": {
+            "parentType": 1013,
+            "editNodes": [],
+            "deleteNodes": [],
+            "addNodes": [
+               "1036588544210092263"
+            ]
+         },
+         "1036592811106604788": {
+            "parentType": 1031,
+            "editNodes": [],
+            "deleteNodes": [],
+            "addNodes": []
+         },
+         "1036593276500851705": {
+            "parentType": 1014,
+            "editNodes": [],
+            "deleteNodes": [],
+            "addNodes": []
+         },
+         "1036588544210092263": {
+            "parentType": 1014,
+            "editNodes": [],
+            "deleteNodes": [],
+            "addNodes": [
+               "1036592811106604788"
+            ]
+         }
+      },
+      "moveList": {
+         "1036611335532271212": {
+           
+            "from": "1036593276500851705",
+            "to": "1036588544210092263"
+         }
+      },
+      "gameSettingsDiff": {
+         "field1" : {
+            // These values dont matter 
+            "oldValue" : "a1",
+            "newValue" : "a3"
+         }
+      }
+   }
+}
