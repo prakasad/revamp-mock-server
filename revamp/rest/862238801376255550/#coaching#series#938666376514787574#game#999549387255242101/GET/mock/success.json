@@ -1,346 +1,668 @@
 {
 	"statusCode": 200,
 	"statusMsg": null,
-	"requestId": "1528711121335.rRoYJ.192.168.0.114",
+	"requestId": "SS-selfserve7845fffb7b5qbxs.E5vx91535956394429",
+	"stackTrace": null,
 	"object": {
+		"gameStatic": {
+			"type": 1001,
+			"cas_val": 1535951206268141568,
+			"id": "1036480596436114742",
+			"mtentityType": 13,
+			"name": "ssss",
+			"createdBy": "4411953f1a882382",
+			"creationTime": 1535951206,
+			"state_value": 3,
+			"thumbObj": {
+				"type": 81,
+				"object": "THUMB_MISSION1",
+				"title": "",
+				"obj": {
+					"type": 81,
+					"cas_val": 1484295558055526400,
+					"id": "THUMB_MISSION1",
+					"status": 0,
+					"title": "Default",
+					"uploadedById": "_default_uploaduser",
+					"uploadedAt": 1428477585,
+					"companyId": "_default",
+					"size": 19126,
+					"contentParts": 1,
+					"original_path": "https://cf-ap1.mindtickle.com/allaboard4.0/thumb/Mission-Thumbnail_01.png?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2YtYXAxLm1pbmR0aWNrbGUuY29tL2FsbGFib2FyZDQuMC90aHVtYi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNTY3NDkyMzk0fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9LCJEYXRlR3JlYXRlclRoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTQ0NDk3NzExNn19fV19&Signature=SQq3r~RNdUq7S~s9zqcPUfPb15w1JF7My~x1vqmfrRqf8YNZinH9ZdLYRL2bFtn2Iw0wBGST7INAmVS9gpkd1zFnC1Wn6xImmscKtZQy0CTpnVJm2OhaX8Kp--YNpx6HpolNP3P8O8yewwQOxrJSPhZBpFLExrlKK9kIS7GPCyw_&Key-Pair-Id=APKAJRHSQBGT5CW7P2CA",
+					"expiry": 1567492394,
+					"providerSource": null,
+					"providerSourceId": null,
+					"croppedIn": "MISSION_THUMB",
+					"processed_path": "//s3-ap-southeast-1.amazonaws.com/mtgame-cdn.mindtickle.com/allaboard4.0/thumb/Mission-Thumbnail_01.png?AWSAccessKeyId=AKIAJ2TLVSVBCUIOVRPA&Expires=1567492394&Signature=PbHtzUGYpEbDcvIHrz2%2F8LIxw2k%3D",
+					"processed_path_180_120": "//s3-ap-southeast-1.amazonaws.com/mtgame-cdn.mindtickle.com/allaboard4.0/thumb/Mission-Thumbnail_01.png?AWSAccessKeyId=AKIAJ2TLVSVBCUIOVRPA&Expires=1567492394&Signature=PbHtzUGYpEbDcvIHrz2%2F8LIxw2k%3D",
+					"processed_path_600_360": "//s3-ap-southeast-1.amazonaws.com/mtgame-cdn.mindtickle.com/allaboard4.0/thumb/Mission-Thumbnail_01.png?AWSAccessKeyId=AKIAJ2TLVSVBCUIOVRPA&Expires=1567492394&Signature=PbHtzUGYpEbDcvIHrz2%2F8LIxw2k%3D",
+					"processed_path_map": {
+						"THUMBNAIL_SMALL": "//s3-ap-southeast-1.amazonaws.com/mtgame-cdn.mindtickle.com/allaboard4.0/thumb/THUMBNAIL_SMALL_Mission-Thumbnail_01.png?AWSAccessKeyId=AKIAJ2TLVSVBCUIOVRPA&Expires=1567492394&Signature=GWNvQNB%2BrNE6S7XgF3GuJqImg9Q%3D",
+						"THUMBNAIL_LARGE": "//s3-ap-southeast-1.amazonaws.com/mtgame-cdn.mindtickle.com/allaboard4.0/thumb/THUMBNAIL_LARGE_Mission-Thumbnail_01.png?AWSAccessKeyId=AKIAJ2TLVSVBCUIOVRPA&Expires=1567492394&Signature=9AX5uIbkTC%2BM6ge%2By%2FC1aHB%2F6p8%3D"
+					},
+					"width": 200,
+					"resizeImageRetryCount": null,
+					"height": 134,
+					"name": "//s3-ap-southeast-1.amazonaws.com/mtgame-cdn.mindtickle.com/allaboard4.0/thumb/Mission-Thumbnail_01.png?AWSAccessKeyId=AKIAJ2TLVSVBCUIOVRPA&Expires=1567492394&Signature=PbHtzUGYpEbDcvIHrz2%2F8LIxw2k%3D"
+				}
+			},
+			"defaultThumbObj": {
+				"type": 81,
+				"object": "THUMB_MISSION1",
+				"title": "",
+				"obj": {
+					"type": 81,
+					"cas_val": 1484295558055526400,
+					"id": "THUMB_MISSION1",
+					"status": 0,
+					"title": "Default",
+					"uploadedById": "_default_uploaduser",
+					"uploadedAt": 1428477585,
+					"companyId": "_default",
+					"size": 19126,
+					"contentParts": 1,
+					"original_path": "https://cf-ap1.mindtickle.com/allaboard4.0/thumb/Mission-Thumbnail_01.png?Policy=eyJTdGF0ZW1lbnQiOiBbeyJSZXNvdXJjZSI6Imh0dHBzOi8vY2YtYXAxLm1pbmR0aWNrbGUuY29tL2FsbGFib2FyZDQuMC90aHVtYi8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNTM1OTcwNzk0fSwiSXBBZGRyZXNzIjp7IkFXUzpTb3VyY2VJcCI6IjAuMC4wLjAvMCJ9LCJEYXRlR3JlYXRlclRoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTQ0NDk3NzExNn19fV19&Signature=affLidCBl87q1NNDpcwP4ywh3JGVjuAaSUcaDsYdEj4DTYWgUF8c5zDosF44UVMCJgTnf2GZ0WS83Qn1txK8YI-IuA6NC44B0MM8ogKpgtxFC4fwOGNVSCmSfFw7aYzmIERytycn7ULge81~tjFs4idIiEZjzU746hlGkvo00mQ_&Key-Pair-Id=APKAJRHSQBGT5CW7P2CA",
+					"expiry": 1535970794,
+					"providerSource": null,
+					"providerSourceId": null,
+					"croppedIn": "MISSION_THUMB",
+					"processed_path": "//s3-ap-southeast-1.amazonaws.com/mtgame-cdn.mindtickle.com/allaboard4.0/thumb/Mission-Thumbnail_01.png?AWSAccessKeyId=AKIAJ2TLVSVBCUIOVRPA&Expires=1535970794&Signature=LxO1FXTP3zDZKvzTUWHQ%2FOJfYQ8%3D",
+					"processed_path_180_120": "//s3-ap-southeast-1.amazonaws.com/mtgame-cdn.mindtickle.com/allaboard4.0/thumb/Mission-Thumbnail_01.png?AWSAccessKeyId=AKIAJ2TLVSVBCUIOVRPA&Expires=1535970794&Signature=LxO1FXTP3zDZKvzTUWHQ%2FOJfYQ8%3D",
+					"processed_path_600_360": "//s3-ap-southeast-1.amazonaws.com/mtgame-cdn.mindtickle.com/allaboard4.0/thumb/Mission-Thumbnail_01.png?AWSAccessKeyId=AKIAJ2TLVSVBCUIOVRPA&Expires=1535970794&Signature=LxO1FXTP3zDZKvzTUWHQ%2FOJfYQ8%3D",
+					"processed_path_map": {
+						"THUMBNAIL_SMALL": "//s3-ap-southeast-1.amazonaws.com/mtgame-cdn.mindtickle.com/allaboard4.0/thumb/THUMBNAIL_SMALL_Mission-Thumbnail_01.png?AWSAccessKeyId=AKIAJ2TLVSVBCUIOVRPA&Expires=1535970794&Signature=4KHBw9M7aZwEKXO42uvNfA%2BPysM%3D",
+						"THUMBNAIL_LARGE": "//s3-ap-southeast-1.amazonaws.com/mtgame-cdn.mindtickle.com/allaboard4.0/thumb/THUMBNAIL_LARGE_Mission-Thumbnail_01.png?AWSAccessKeyId=AKIAJ2TLVSVBCUIOVRPA&Expires=1535970794&Signature=fc0mCrpisd%2FIoYz6zymZ%2FELT3n8%3D"
+					},
+					"width": 200,
+					"resizeImageRetryCount": null,
+					"height": 134,
+					"name": "//s3-ap-southeast-1.amazonaws.com/mtgame-cdn.mindtickle.com/allaboard4.0/thumb/Mission-Thumbnail_01.png?AWSAccessKeyId=AKIAJ2TLVSVBCUIOVRPA&Expires=1535970794&Signature=LxO1FXTP3zDZKvzTUWHQ%2FOJfYQ8%3D"
+				}
+			},
+			"isthumObjDerived": false,
+			"numDaysForDueDate": 3,
+			"companyId": "894816205554176863",
+			"path": "",
+			"mapPublishHistory": {},
+			"parentList": [
+				{
+					"series": "938666376514787574",
+					"displayOrder": 1535951205,
+					"milestones": []
+				}
+			],
+			"lastPublishedVersion": 0,
+			"learnerSettings": {
+				"canReattempt": false
+			},
+			"topSubmissionSettings": {
+				"displayCriteria": "AFTER_SUBMISSION",
+				"selectionCriteria": null,
+				"cutoff": 600
+			},
+			"smartSettings": {
+				"transcriptionEnabled": false
+			},
+			"docs": [],
+			"isPublished": false,
+			"createdRefUser": {
+				"id": "4411953f1a882382",
+				"obj": {
+					"id": "4411953f1a882382",
+					"name": "AR",
+					"nameStr": null,
+					"email": "akshara.ramesh@mindtickle.com",
+					"timezone": "330",
+					"preferredTimes": [],
+					"pic": "",
+					"state": {
+						"current": "ACTIVE",
+						"timestamp": 1531390386,
+						"prev": "ADDED"
+					},
+					"addedOn": 1531390339
+				}
+			},
+			"showCoachingFormToLearner": true,
+			"showOverallScoreToLearner": true,
+			"allowLearnerApprove": false,
+			"reviewerSettings": {
+				"canEditReview": false,
+				"allowOverallFeedback": true,
+				"captureLocationOfReview": false,
+				"reviewers": []
+			}
+		},
+		"gameData": {
+			"type": 1002,
+			"cas_val": 1535951206274301952,
+			"playableId": "1036480596436513981",
+			"playableIdType": 1010,
+			"stats": {
+				"total": null,
+				"categoryStats": {},
+				"learningContentDetailedStats": null
+			},
+			"maxScore": null,
+			"mtEntityType": 13
+		},
+		"gameSettings": {
+			"type": 1000,
+			"cas_val": 1535951206275416064,
+			"mtentityType": 13,
+			"autoRedo": false,
+			"certificate": {
+				"score": 0,
+				"enabled": false,
+				"validity": {
+					"expiryTime": -1,
+					"notify": null
+				},
+				"notifyLearnerForRecertification": false
+			},
+			"scoringCriteria": 2,
+			"completionCriteria": {
+				"cutoffScore": null,
+				"cutoffPercentage": null,
+				"numofSessions": null
+			}
+		},
 		"series": {
+			"type": 30,
+			"cas_val": 1535951206279806976,
 			"id": "938666376514787574",
-			"name": "Series A",
+			"mtentityType": 1,
+			"name": "Annotations testing",
+			"desc": "Annotations testing",
+			"createdBy": "37a619aa803d282a",
+			"creationTime": 1521463270,
+			"state_value": 4,
+			"thumbObj": null,
+			"defaultThumbObj": null,
+			"isthumObjDerived": false,
+			"numDaysForDueDate": null,
+			"dueDate": null,
+			"startTime": 1521463270,
+			"expiryTime": 1521463270,
+			"companyId": "894816205554176863",
+			"lockState": null,
+			"webhook": null,
+			"path": "",
+			"user_invite_time_gap": null,
+			"tag": null,
+			"mtelements": [
+				{
+					"gameId": "975714175524296621",
+					"type": 4
+				},
+				{
+					"gameId": "976079752603300384",
+					"type": 4
+				},
+				{
+					"gameId": "976177789298330992",
+					"type": 4
+				},
+				{
+					"gameId": "976363567859474048",
+					"type": 6
+				},
+				{
+					"gameId": "976383706250930006",
+					"type": 4
+				},
+				{
+					"gameId": "976385138382945441",
+					"type": 4
+				},
+				{
+					"gameId": "976386400191697182",
+					"type": 4
+				},
+				{
+					"gameId": "976725497270243189",
+					"type": 4
+				},
+				{
+					"gameId": "976754882874743853",
+					"type": 4
+				},
+				{
+					"gameId": "976755190324369364",
+					"type": 4
+				},
+				{
+					"gameId": "978182748545101307",
+					"type": 3
+				},
+				{
+					"gameId": "1032146634066863398",
+					"type": 13
+				},
+				{
+					"gameId": "1032983903468385875",
+					"type": 13
+				},
+				{
+					"gameId": "1034004844791732290",
+					"type": 13
+				},
+				{
+					"gameId": "1036275788664824873",
+					"type": 13
+				},
+				{
+					"gameId": "1036480596436114742",
+					"type": 13
+				}
+			],
+			"isShuffled": false,
+			"selectiveInviteEnabled": true,
+			"unsubscribed": [],
+			"visibility": "INVITE_ONLY",
 			"prm": {
 				"rules": [
 					{
-						"permission": "SERIES_VIEW_ANALYTICS",
-						"rule": {
-							"accessType": "RESTRICTED",
-							"userids": [
-								"3e5fe367c59a8425",
-								"4111c8f2b0568452",
-								"3aaed062834712d7",
-								"3c021b9f87c35391",
-								"3ce2a36a9b130c80",
-								"38b70187c0961035",
-								"3c2757916b34e30d",
-								"3d0a1286bc76a84c",
-								"3ad040d2a9d3b50b",
-								"3c07fa69986affd2",
-								"3db8cc416a2cdb31",
-								"3c95cdae2503185d",
-								"406acd342e51797d",
-								"3c8169bb78cf0a65",
-								"427d9fd62daf3f17",
-								"3777a2f9c10ee4ef"
-							],
-							"groupids": []
-						}
-					},
-					{
-						"permission": "MODULE_MANAGEMENT",
-						"rule": {
-							"accessType": "RESTRICTED",
-							"userids": [
-								"3e5fe367c59a8425",
-								"4111c8f2b0568452",
-								"3aaed062834712d7",
-								"3c021b9f87c35391",
-								"3ce2a36a9b130c80",
-								"38b70187c0961035",
-								"3c2757916b34e30d",
-								"3d0a1286bc76a84c",
-								"3ad040d2a9d3b50b",
-								"3c07fa69986affd2",
-								"3db8cc416a2cdb31",
-								"3c95cdae2503185d",
-								"406acd342e51797d",
-								"3c8169bb78cf0a65",
-								"3777a2f9c10ee4ef"
-							],
-							"groupids": []
-						}
-					},
-					{
-						"permission": "SERIES_MANAGEMENT",
-						"rule": {
-							"accessType": "RESTRICTED",
-							"userids": [
-								"3e5fe367c59a8425",
-								"4111c8f2b0568452",
-								"3aaed062834712d7",
-								"3c021b9f87c35391",
-								"3ce2a36a9b130c80",
-								"38b70187c0961035",
-								"3c2757916b34e30d",
-								"3d0a1286bc76a84c",
-								"3ad040d2a9d3b50b",
-								"3c07fa69986affd2",
-								"3db8cc416a2cdb31",
-								"3c95cdae2503185d",
-								"406acd342e51797d",
-								"3c8169bb78cf0a65",
-								"3777a2f9c10ee4ef"
-							],
-							"groupids": []
-						}
-					},
-					{
 						"permission": "MODULE_SHARING",
 						"rule": {
-							"accessType": "RESTRICTED",
-							"userids": [
-								"3e5fe367c59a8425",
-								"4111c8f2b0568452",
-								"3aaed062834712d7",
-								"3c021b9f87c35391",
-								"3ce2a36a9b130c80",
-								"38b70187c0961035",
-								"3c2757916b34e30d",
-								"3d0a1286bc76a84c",
-								"3ad040d2a9d3b50b",
-								"3c07fa69986affd2",
-								"3db8cc416a2cdb31",
-								"3c95cdae2503185d",
-								"406acd342e51797d",
-								"3c8169bb78cf0a65",
-								"3777a2f9c10ee4ef"
-							],
+							"accessType": "ALL",
+							"userids": [],
 							"groupids": []
 						}
 					},
 					{
 						"permission": "CONTENT_SHARING_VIA_GROUP",
 						"rule": {
-							"accessType": "RESTRICTED",
-							"userids": [
-								"3e5fe367c59a8425",
-								"4111c8f2b0568452",
-								"3aaed062834712d7",
-								"3c021b9f87c35391",
-								"3ce2a36a9b130c80",
-								"40729510378caf98",
-								"38b70187c0961035",
-								"3c2757916b34e30d",
-								"3d0a1286bc76a84c",
-								"3ad040d2a9d3b50b",
-								"3c07fa69986affd2",
-								"3db8cc416a2cdb31",
-								"3c95cdae2503185d",
-								"406acd342e51797d",
-								"3c8169bb78cf0a65",
-								"3777a2f9c10ee4ef"
-							],
+							"accessType": "ALL",
+							"userids": [],
+							"groupids": []
+						}
+					},
+					{
+						"permission": "MODULE_MANAGEMENT",
+						"rule": {
+							"accessType": "ALL",
+							"userids": [],
 							"groupids": []
 						}
 					},
 					{
 						"permission": "MODULE_VIEW_ANALYTICS",
 						"rule": {
-							"accessType": "RESTRICTED",
-							"userids": [
-								"3e5fe367c59a8425",
-								"4111c8f2b0568452",
-								"3aaed062834712d7",
-								"3c021b9f87c35391",
-								"3ce2a36a9b130c80",
-								"38b70187c0961035",
-								"3c2757916b34e30d",
-								"3d0a1286bc76a84c",
-								"3ad040d2a9d3b50b",
-								"3c07fa69986affd2",
-								"3db8cc416a2cdb31",
-								"3c95cdae2503185d",
-								"406acd342e51797d",
-								"3c8169bb78cf0a65",
-								"427d9fd62daf3f17",
-								"3777a2f9c10ee4ef"
-							],
+							"accessType": "ALL",
+							"userids": [],
+							"groupids": []
+						}
+					},
+					{
+						"permission": "SERIES_MANAGEMENT",
+						"rule": {
+							"accessType": "ALL",
+							"userids": [],
+							"groupids": []
+						}
+					},
+					{
+						"permission": "SERIES_VIEW_ANALYTICS",
+						"rule": {
+							"accessType": "ALL",
+							"userids": [],
 							"groupids": []
 						}
 					}
 				]
-			}
+			},
+			"sequentialUnlockingEnabled": false,
+			"lastUpdatedTime": null,
+			"invitationEmail": null,
+			"reminderMailEnabled": true
 		},
-		"gameStatic": {
-			"type": 1001,
-			"mtentityType": 10,
-			"name": "Key Messages",
-			"desc": "Dr Tan is a general practitionar",
-			"createdBy": "4194ef2d43d7df97",
-			"creationTime": 1526037577,
-			"state_value": "2",
-			"mappedSeries": [
-				"938666376514787574"
-			],
-			"thumbObj": {
-				"type": 81,
-				"object": "932804160147584819",
-				"title": "Pitch Perfect"
-			},
-			"defaultThumbObj": {
-				"type": 81,
-				"object": "THUMB_MISSION3",
-				"title": ""
-			},
-			"companyId": "862238801376255550",
-			"dueDate": {
-				"dueDateType": "SPECIFIC_DATE",
-				"value": 1524583800,
-				"dueDateExpiryAction": "NONE"
-			},
-			"lastPublishedVersion": 0,
-			"parentList": [
-				{
-					"series": "938666376514787574",
-					"displayOrder": 1523522054,
-					"milestones": []
-				}
-			],
-			"docs": [],
-			"reviewerSettings": {
-				"canEditReview": false,
-				"allowOverallFeedback": true,
-				"captureLocationOfReview": false,
-				"reviewers": [
-					{
-						"coachingFrequency": {
-							"value": 3,
-							"unitType": "DAY_OF_MONTH"
-						},
-						"assignmentRule": {
-							"type": 1
-						}
-					}
-				]
-			},
-			"transcriptionEnabled": "TRUE",
-			"learner": {
-				"canReattempt": false
-			},
-			"topSubmission": {
-				"displayCriteria": "AFTER_SUBMISSION",
-				"selectionCriteria": {},
-				"cutoff": 600
-			}
-		},
-		"gameSettings": {
-			"type": 1000,
-			"gameId": "999549387255242101",
-			"isPublished": false,
-			"companyId": "862238801376255550",
-			"mtentityType": 250,
-			"scoring": {
-				"cutoffScore": 3,
-				"criteria": {
-					"allParameters": true
-				}
-			},
-			"certificate": {
-				"score": 40,
-				"enabled": false,
-				"validity": {
-					"value": -1,
-					"notify": ""
-				}
-			},
-			"autoRedo": true
-		},
-		"gameData": {
-			"type": 1002,
-			"gameId": "999549387255242101",
-			"companyId": "862238801376255550",
-			"playableId": "c123",
-			"playableIdType": "300",
-			"stats": {
-				"total": null,
-				"categoryStats": {},
-				"learningContentDetailedStats": null
-			},
-			"maxScore": 500,
-			"playableObject": {
-				"id": "cr123",
-				"type": 1010,
-				"gameId": "999549387255242101",
-				"companyId": "862238801376255550",
-				"version": 0,
-				"createdAt": 1526037577,
-				"updatedAt": 1526039319,
-				"staticNode": {
-					"id": "",
-					"type": ""
-				},
+		"nodes": {
+			"section-s1": {
+				"type": 1014,
+				"cas_val": 1535951205873221632,
+				"id": "1036480597100350364",
+				"isPublished": 0,
+				"createdBy": "4411953f1a882382",
+				"createdAt": 1535951205,
+				"updatedAt": 1535951205,
+				"gameId": "1036480596436114742",
+				"cloneParent": null,
 				"children": [
 					{
-						"id": "fc123",
-						"type": 1012,
-						"dependOn": [],
-						"node": {
-							"id": "fc123",
-							"type": 1012,
-							"gameId": "999549387255242101",
-							"companyId": "862238801376255550",
-							"version": 0,
-							"createdAt": 1526037577,
-							"updatedAt": 1526039319,
-							"staticNode": {
-								"id": "",
-								"type": ""
-							},
-							"children": [
-								{
-									"id": "f123",
-									"type": 1013,
-									"dependOn": [],
-									"node": {}
-								}
-							]
-						}
+						"id": "ep-2",
+						"node": null,
+						"type": 1031,
+						"dependOn": []
 					},
 					{
-						"id": "ac123",
-						"type": 1011,
-						"gameId": "999549387255242101",
-						"companyId": "862238801376255550",
-						"version": 0,
-						"createdAt": 1526037577,
-						"updatedAt": 1526039319,
-						"staticNode": {
-							"id": "acs123",
-							"type": "210"
-						},
-						"children": [
-							{
-								"id": "a123",
-								"dependOn": [],
-								"type": 1015,
-								"node": {
-									"type": 1015,
-									"id": "a123",
-									"children": [],
-									"createdBy": "41739275bd2ffbf0",
-									"createdAt": 1526016201,
-									"updatedAt": 1526039319,
-									"gameId": "999549387255242101",
-									"staticNode": {
-										"id": "as123",
-										"type": 240,
-										"obj": {
-											"createdAt": 1526016201,
-											"name": "Demo Activity",
-											"updatedAt": 1526016201,
-											"desc": "Demo Activity Description",
-											"staticVersion": 1,
-											"gameId": "999549387255242101",
-											"companyId": "862238801376255550",
-											"type": 40,
-											"id": "as123",
-											"targetLength": null
-										}
-									},
-									"pptUploadByAdmin": false,
-									"pptMedia": null
-								}
-							}
-						]
+						"id": "ep-3",
+						"node": null,
+						"type": 1030,
+						"dependOn": []
 					}
-				]
+				],
+				"staticNode": {
+					"id": "1036480597104333240",
+					"type": 1060,
+					"obj": {
+						"type": 1060,
+						"cas_val": 1535951205971853312,
+						"id": "1036480597104333240",
+						"createdAt": 1535951205,
+						"updatedAt": 1535951205,
+						"name": "section 1",
+						"desc": "section 1",
+						"staticVersion": 0
+					}
+				},
+				"unlockStrategy": 0,
+				"evaluationType": "ASSESSMENT",
+				"mandatory": null,
+				"allowNA": null,
+				"maxScore": 100,
+				"hasUnpublishedChanges": false,
+				"publishedBefore": false
+			},
+			"section-s2": {
+				"type": 1014,
+				"cas_val": 1535951206178684928,
+				"id": "1036480596436513981",
+				"isPublished": 0,
+				"children": [
+					{
+						"id": "ep-1",
+						"node": null,
+						"type": 1031,
+						"dependOn": []
+					}
+				],
+				"createdBy": "4411953f1a882382",
+				"createdAt": 1535951205,
+				"updatedAt": 1535951206,
+				"gameId": "1036480596436114742",
+				"cloneParent": null,
+				"staticNode": {
+					"id": "1036480596435410845",
+					"type": 1040,
+					"obj": {
+						"type": 1040,
+						"cas_val": 1535951205713182720,
+						"id": "1036480596435410845",
+						"createdAt": 1535951205,
+						"updatedAt": 1535951205,
+						"name": "section 2",
+						"desc": "section 2",
+						"staticVersion": 0
+					}
+				},
+				"unlockStrategy": 0,
+				"evaluationType": "ASSESSMENT",
+				"hasUnpublishedChanges": false,
+				"publishedBefore": false
+			},
+			"overall-section": {
+				"type": 1034,
+				"cas_val": 1535951206178684928,
+				"id": "overall-section",
+				"isPublished": 0,
+				"children": [
+					{
+						"id": "ep-4",
+						"node": null,
+						"type": 1030,
+						"dependOn": []
+					},
+					{
+						"id": "ep-5",
+						"node": null,
+						"type": 1030,
+						"dependOn": []
+					}
+				],
+				"createdBy": "4411953f1a882382",
+				"createdAt": 1535951205,
+				"updatedAt": 1535951206,
+				"gameId": "1036480596436114742",
+				"cloneParent": null,
+				"staticNode": {
+					"id": "1036480596435410845",
+					"type": 1040,
+					"obj": {
+						"type": 1040,
+						"cas_val": 1535951205713182720,
+						"id": "1036480596435410845",
+						"createdAt": 1535951205,
+						"updatedAt": 1535951205,
+						"name": "Overall Feedback",
+						"desc": "Overall Feedback",
+						"staticVersion": 0
+					}
+				},
+				"unlockStrategy": 0,
+				"evaluationType": "ASSESSMENT",
+				"hasUnpublishedChanges": false,
+				"publishedBefore": false
+			},
+			"ep-1": {
+				"type": 1031,
+				"cas_val": 1535951206074679296,
+				"id": "ep-1",
+				"isPublished": 0,
+				"createdBy": "4411953f1a882382",
+				"createdAt": 1535951205,
+				"updatedAt": 1535951206,
+				"gameId": "1036480596436114742",
+				"cloneParent": null,
+				"low": 0,
+				"high": 5,
+				"maxScore": 100,
+				"staticNode": {
+					"id": "1036480596672844645",
+					"type": 1043,
+					"obj": {
+						"type": 1043,
+						"cas_val": 1535951205770461184,
+						"id": "1036480596672844645",
+						"guidanceDesc": "gudance desc",
+						"createdAt": 1535951205,
+						"updatedAt": 1535951205,
+						"name": "ep-1 title",
+						"desc": "ep-1 desc",
+						"staticVersion": 0
+					}
+				},
+				"unlockStrategy": 0,
+				"evaluationType": "ASSESSMENT",
+				"hasUnpublishedChanges": false,
+				"publishedBefore": false
+			},
+			"ep-2": {
+				"type": 1033,
+				"cas_val": 1535951206174228480,
+				"id": "ep-2",
+				"isPublished": 0,
+				"createdBy": "4411953f1a882382",
+				"createdAt": 1535951206,
+				"updatedAt": 1535951206,
+				"gameId": "1036480596436114742",
+				"cloneParent": null,
+				"maxScore": 100,
+				"options": [
+					{
+						"id": "0",
+						"score": 100
+					},
+					{
+						"id": "1",
+						"score": 0
+					}
+				],
+				"staticNode": {
+					"id": "1036480597992188500",
+					"type": 1041,
+					"obj": {
+						"type": 1041,
+						"cas_val": 1535951206085754880,
+						"id": "1036480597992188500",
+						"guidanceDesc": "gudance desc",
+						"guidance": {
+							"0": "Yes",
+							"1": "No"
+						},
+						"createdAt": 1535951206,
+						"updatedAt": 1535951206,
+						"name": "ep-2 title",
+						"desc": "ep-2 desc",
+						"staticVersion": 0
+					}
+				},
+				"unlockStrategy": 0,
+				"evaluationType": "ASSESSMENT",
+				"hasUnpublishedChanges": false,
+				"publishedBefore": false
+			},
+			"ep-3": {
+				"type": 1030,
+				"cas_val": 1535951206174228480,
+				"id": "ep-3",
+				"isPublished": 0,
+				"createdBy": "4411953f1a882382",
+				"createdAt": 1535951206,
+				"updatedAt": 1535951206,
+				"gameId": "1036480596436114742",
+				"cloneParent": null,
+				"maxScore": 100,
+				"staticNode": {
+					"id": "1036480597992188500",
+					"type": 1041,
+					"obj": {
+						"type": 1041,
+						"cas_val": 1535951206085754880,
+						"id": "1036480597992188500",
+						"guidanceDesc": "gudance desc",
+						"createdAt": 1535951206,
+						"updatedAt": 1535951206,
+						"name": "ep-3 title",
+						"desc": "ep-3 desc",
+						"staticVersion": 0
+					}
+				},
+				"unlockStrategy": 0,
+				"evaluationType": "ASSESSMENT",
+				"hasUnpublishedChanges": false,
+				"publishedBefore": false
+			},
+			"ep-4": {
+				"type": 1030,
+				"cas_val": 1535951206174228480,
+				"id": "ep-4",
+				"isPublished": 0,
+				"createdBy": "4411953f1a882382",
+				"createdAt": 1535951206,
+				"updatedAt": 1535951206,
+				"gameId": "1036480596436114742",
+				"cloneParent": null,
+				"maxScore": 100,
+				"staticNode": {
+					"id": "1036480597992188500",
+					"type": 1041,
+					"obj": {
+						"type": 1041,
+						"cas_val": 1535951206085754880,
+						"id": "1036480597992188500",
+						"guidanceDesc": "gudance desc",
+						"createdAt": 1535951206,
+						"updatedAt": 1535951206,
+						"name": "this is overall feedback",
+						"desc": "this is overall feedback",
+						"staticVersion": 0
+					}
+				},
+				"unlockStrategy": 0,
+				"evaluationType": "ASSESSMENT",
+				"hasUnpublishedChanges": false,
+				"publishedBefore": false
+			},
+			"ep-5": {
+				"type": 1030,
+				"cas_val": 1535951206174228480,
+				"id": "ep-5",
+				"isPublished": 0,
+				"createdBy": "4411953f1a882382",
+				"createdAt": 1535951206,
+				"updatedAt": 1535951206,
+				"gameId": "1036480596436114742",
+				"cloneParent": null,
+				"maxScore": 100,
+				"staticNode": {
+					"id": "1036480597992188500",
+					"type": 1041,
+					"obj": {
+						"type": 1041,
+						"cas_val": 1535951206085754880,
+						"id": "1036480597992188500",
+						"guidanceDesc": "gudance desc",
+						"createdAt": 1535951206,
+						"updatedAt": 1535951206,
+						"name": "this is constructive feedback",
+						"desc": "this is constructive feedback",
+						"staticVersion": 0
+					}
+				},
+				"unlockStrategy": 0,
+				"evaluationType": "ASSESSMENT",
+				"hasUnpublishedChanges": false,
+				"publishedBefore": false
+			},
+			"form-f1": {
+				"type": 1013,
+				"cas_val": 1535951206071336960,
+				"id": "1036480596700783758",
+				"isPublished": 0,
+				"children": [
+					{
+						"id": "section-s1",
+						"node": null,
+						"type": 1014,
+						"dependOn": []
+					},
+					{
+						"id": "section-s2",
+						"node": null,
+						"type": 1014,
+						"dependOn": []
+					},{
+						"id": "overall-section",
+						"node": null,
+						"type": 1034,
+						"dependOn": []
+					}
+				],
+				"createdBy": "4411953f1a882382",
+				"createdAt": 1535951205,
+				"updatedAt": 1535951206,
+				"gameId": "1036480596436114742",
+				"cloneParent": null,
+				"staticNode": {
+					"id": "1036480596701052641",
+					"type": 1043,
+					"obj": {
+						"type": 1043,
+						"cas_val": 1535951205776293888,
+						"id": "1036480596701052641",
+						"createdAt": 1535951205,
+						"updatedAt": 1535951205,
+						"name": null,
+						"desc": null,
+						"staticVersion": 0
+					}
+				},
+				"unlockStrategy": 0,
+				"evaluationType": "ASSESSMENT",
+				"maxScore": null,
+				"hasUnpublishedChanges": false,
+				"publishedBefore": false
 			}
 		}
 	}

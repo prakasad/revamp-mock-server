@@ -5,7 +5,7 @@
 	"stackTrace": null,
 	"object":{
 		"sessions": [{
-			"reviewerId": "4193271ef4c65a6f",
+			"reviewerId": "4193271ef4c65a6e",
 			"reviewedAt": null,
 			"scheduledAt": 1517598078,
 			"score": null,
@@ -25,6 +25,15 @@
 			"4193271ef4c65a6f": {
 				"email": "afroz.alam@mindtickle.com",
 				"name": "Afroz Alam",
+				"state": {
+					"current": "ACTIVE",
+					"prev": "DEACTIVATED",
+					"timestamp": 1517398078
+				}
+			},
+			"4193271ef4c65a6e": {
+				"email": "afroz.alam1@mindtickle.com",
+				"name": "Afroz Alam1",
 				"state": {
 					"current": "ACTIVE",
 					"prev": "DEACTIVATED",

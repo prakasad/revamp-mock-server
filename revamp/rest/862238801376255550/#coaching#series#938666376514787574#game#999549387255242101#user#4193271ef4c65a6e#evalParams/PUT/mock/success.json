@@ -4,7 +4,7 @@
 	"requestId": "1528711121335.rRoYJ.192.168.0.114",
 	"stackTrace": null,
 	"object":{
-		"id": "evalparam-ep1",
+		"id": "ep-1",
 		"type": "USER_EVAL_PARAM_RATING",
 		"score": 400,
 		"maxScore": 500,
@@ -16,9 +16,9 @@
 		"createdAt": 1517398078,
 		"updatedAt": 1517398078,
 		"refNode": {
-			"id": "evalparam-ep1",
+			"id": "ep-1",
 			"type": 1031,
-			"nodeVo": null,
+			"nodeVo": null
 		},
 		"children": null,
 		"reviewerEvaluationVo": {
