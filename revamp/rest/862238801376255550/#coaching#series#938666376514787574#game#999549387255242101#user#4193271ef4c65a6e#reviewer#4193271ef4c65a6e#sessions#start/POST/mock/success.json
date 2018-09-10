@@ -20,6 +20,8 @@
 	    "score": 0,
 	    "maxScore": 1500,
 	    "scheduledAt": 1517298078,
+	    "scheduledFrom": 1517299078,
+	    "scheduledTo": 1517308078,
 	    "version": 1,
 		"session": 2,
 		"userId": "4193271ef4c65a6e",

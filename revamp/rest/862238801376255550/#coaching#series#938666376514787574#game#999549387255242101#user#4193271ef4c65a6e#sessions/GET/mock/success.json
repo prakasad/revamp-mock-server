@@ -8,14 +8,20 @@
 			"reviewerId": "4193271ef4c65a6e",
 			"reviewedAt": null,
 			"scheduledAt": 1517598078,
+			"scheduledFrom": 1517299078,
+	    	"scheduledTo": 1517308078,
 			"score": null,
+			"maxScore": null,
 			"version": 1,
 			"session": 2
 		},{
 			"reviewerId": "4193271ef4c65a6f",
 			"reviewedAt": 1517498078,
 			"scheduledAt": 1517398078,
+			"scheduledFrom": 1517299078,
+	    	"scheduledTo": 1517308078,
 			"score": 300,
+			"maxScore": 500,
 			"version": 1,
 			"session": 1
 		}]

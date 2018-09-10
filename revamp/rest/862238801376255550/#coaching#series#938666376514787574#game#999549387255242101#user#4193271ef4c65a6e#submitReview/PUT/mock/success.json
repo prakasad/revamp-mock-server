@@ -4,28 +4,50 @@
 	"requestId": "1528711121335.rRoYJ.192.168.0.114",
 	"stackTrace": null,
 	"object":{
-		"type": "USER_REVIEWER_COACHING_ENTITY",
-		"reviewerId": "4193271ef4c65a6f",
-	    "reviewedAt": 1517398078,
-	    "reviewerState": {
-	    	"current": "COMPLETED",
-			"prev": "REVIEW_IN_PROGRESS",
-			"timestamp": 1517398078
-	    },
-	    "refUserNode": {
-	    	"nodeId": "form-f1",
-			"type": "USER_FORM",
-			"userNodeVo": null
-	    },
-	    "score": 1300,
-	    "maxScore": 1500,
-	    "scheduledAt": 1517298078,
-	    "version": 1,
-		"session": 1,
-		"userId": "4193271ef4c65a6e",
-		"companyId": "862238801376255550",
-		"gameId": "999549387255242101",
-		"createdAt": 1517398078,
-		"updatedAt": 1517398078
+		"reviewerSession":{
+			"type": "USER_REVIEWER_COACHING_ENTITY",
+			"reviewerId": "4193271ef4c65a6f",
+		    "reviewedAt": 1517398078,
+		    "reviewerState": {
+		    	"current": "COMPLETED",
+				"prev": "REVIEW_IN_PROGRESS",
+				"timestamp": 1517398078
+		    },
+		    "refUserNode": {
+		    	"nodeId": "form-f1",
+				"type": "USER_FORM",
+				"userNodeVo": null
+		    },
+		    "score": 1300,
+		    "maxScore": 1500,
+		    "scheduledAt": 1517298078,
+		    "scheduledFrom": 1517299078,
+		    "scheduledTo": 1517309078,
+		    "version": 1,
+			"session": 1,
+			"userId": "4193271ef4c65a6e",
+			"companyId": "862238801376255550",
+			"gameId": "999549387255242101",
+			"createdAt": 1517398078,
+			"updatedAt": 1517398078
+		},
+		"reviewerSummary": {
+			"type": "USER_REVIEWER_GAME_SESSION",
+			"reviewerId": "4193271ef4c65a6f",
+			"moduleState": {
+				"current": "ACTIVE",
+				"prev": "ACTIVE",
+				"timestamp": 1517398078
+			},
+			"version": 1,
+			"session": 1,
+			"userId": "4193271ef4c65a6e",
+			"companyId": "862238801376255550",
+			"gameId": "999549387255242101",
+			"createdAt": 1517398078,
+			"updatedAt": 1517398078,
+			"canClose": false
+		}
+		
 	}
 }
