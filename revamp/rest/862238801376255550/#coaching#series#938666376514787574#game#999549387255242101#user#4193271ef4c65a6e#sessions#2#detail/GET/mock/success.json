@@ -54,6 +54,34 @@
                     "userId": "4193271ef4c65a6e",
                     "companyId": "862238801376255550",
                     "gameId": "999549387255242101",
+                    "reviewDocs": [
+                        {
+                            "type": 93,
+                            "object": "999549387255242201",
+                            "title": "Feedback"
+                        }
+                    ],
+                    "reviewDuration": {
+                        "hour": 2,
+                        "minute": 10,
+                        "second": 0
+                    },
+                    "location": {
+                        "latitude": 18.552755, 
+                        "longitude": 73.771882,
+                    },
+                    "learnerApprovals": {
+                        "0": {
+                            "approved": false,
+                            "comment": "Blah",
+                            "timestamp": 1517298078
+                        },
+                        "1": {
+                            "approved": true,
+                            "comment": "Blah",
+                            "timestamp": 1517299078
+                        },
+                    },
                     "createdAt": 1517398078,
                     "updatedAt": 1517398078
                 },

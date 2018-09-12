@@ -147,6 +147,13 @@
                 "isNA": false
             },
             "draftReviewerEvaluationVo": {
+                "score": 40,
+                "maxScore": 500,
+                "evaluationVersion": 1,
+                "comment": "test",
+                "sendRemediation": false,
+                "remediations": [],
+                "isNA": false
             }
         },
         "ep-2": {
@@ -177,6 +184,13 @@
                 "isNA": false
             },
             "draftReviewerEvaluationVo": {
+                "score": 100,
+                "maxScore": 500,
+                "evaluationVersion": 1,
+                "comment": "test2",
+                "sendRemediation": false,
+                "remediations": [],
+                "isNA": false
             }
         },
         "ep-3": {
@@ -207,6 +221,13 @@
                 "isNA": false
             },
             "draftReviewerEvaluationVo": {
+                "score": 100,
+                "maxScore": 500,
+                "evaluationVersion": 1,
+                "comment": "test3",
+                "sendRemediation": false,
+                "remediations": [],
+                "isNA": false
             }
         },
         "ep-4": {
@@ -237,6 +258,13 @@
                 "isNA": false
             },
             "draftReviewerEvaluationVo": {
+                "score": 100,
+                "maxScore": 500,
+                "evaluationVersion": 1,
+                "comment": "This is overall feedbakc",
+                "sendRemediation": false,
+                "remediations": [],
+                "isNA": false
             }
         },
         "ep-5": {
@@ -267,6 +295,13 @@
                 "isNA": false
             },
             "draftReviewerEvaluationVo": {
+                "score": 100,
+                "maxScore": 500,
+                "evaluationVersion": 1,
+                "comment": "This is constructive feedbakc",
+                "sendRemediation": false,
+                "remediations": [],
+                "isNA": false
             }
         }
     },
