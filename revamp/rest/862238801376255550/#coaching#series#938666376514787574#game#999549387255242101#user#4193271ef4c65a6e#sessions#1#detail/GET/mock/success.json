@@ -3,7 +3,7 @@
 	"statusMsg": null,
 	"requestId": "1528711121335.rRoYJ.192.168.0.114",
 	"stackTrace": null,
-	"object":{
+	"object": {
 		"sessionSummary": {
 			"type": "USER_ONE_TO_ONE_COACHING_ENTITY",
 			"version": 1,
@@ -33,23 +33,23 @@
 				"summary": {
 					"type": "USER_REVIEWER_COACHING_ENTITY",
 					"reviewerId": "4193271ef4c65a6f",
-				    "reviewedAt": 1517398078,
-				    "reviewerState": {
-				    	"current": "COMPLETED",
+					"reviewedAt": 1517398078,
+					"reviewerState": {
+						"current": "COMPLETED",
 						"prev": "REVIEW_IN_PROGRESS",
 						"timestamp": 1517398078
 					},
-				    "refUserNode": {
-				    	"nodeId": "form-f1",
+					"refUserNode": {
+						"nodeId": "form-f1",
 						"type": "USER_FORM",
 						"userNodeVo": null
-				    },
-				    "score": 1300,
+					},
+					"score": 1300,
 					"maxScore": 1500,
-				    "scheduledAt": 1517398078,
-				    "scheduledFrom": 1517299078,
-	    			"scheduledTo": 1517308078,
-				    "version": 1,
+					"scheduledAt": 1517398078,
+					"scheduledFrom": 1517299078,
+					"scheduledTo": 1517308078,
+					"version": 1,
 					"session": 1,
 					"userId": "4193271ef4c65a6e",
 					"companyId": "862238801376255550",
@@ -61,27 +61,27 @@
 							"title": "Feedback"
 						}
 					],
-			        "reviewDuration": {
-			        	"hour": 2,
-			        	"minute": 10,
-			        	"second": 0
-			        },
-			        "location": {
-			        	"latitude": 18.552755, 
-			        	"longitude": 73.771882,
-			        },
-			        "learnerApprovals": {
-			        	"0": {
-			        		"approved": false,
-			        		"comment": "Blah",
-			        		"timestamp": 1517298078
-			        	},
-			        	"1": {
-			        		"approved": true,
-			        		"comment": "Blah",
-			        		"timestamp": 1517299078
-			        	},
-			        },
+					"reviewDuration": {
+						"hour": 2,
+						"minute": 10,
+						"second": 0
+					},
+					"location": {
+						"latitude": 18.552755,
+						"longitude": 73.771882
+					},
+					"learnerApprovals": {
+						"0": {
+							"approved": false,
+							"comment": "Blah",
+							"timestamp": 1517298078
+						},
+						"1": {
+							"approved": true,
+							"comment": "Blah",
+							"timestamp": 1517299078
+						}
+					},
 					"createdAt": 1517398078,
 					"updatedAt": 1517398078
 				},
@@ -105,12 +105,12 @@
 						},
 						"children": {
 							"section-s1": {
-								"nodeId": "section-s1", 
+								"nodeId": "section-s1",
 								"userNodeVo": null,
 								"type": "USER_SECTION"
 							},
 							"section-s2": {
-								"nodeId": "section-s2", 
+								"nodeId": "section-s2",
 								"userNodeVo": null,
 								"type": "USER_SECTION"
 							}
@@ -135,12 +135,12 @@
 						},
 						"children": {
 							"evalparam-ep1": {
-								"nodeId": "evalparam-ep1", 
+								"nodeId": "evalparam-ep1",
 								"userNodeVo": null,
 								"type": "USER_EVAL_PARAM_RATING"
 							},
 							"evalparam-ep2": {
-								"nodeId": "evalparam-ep2", 
+								"nodeId": "evalparam-ep2",
 								"userNodeVo": null,
 								"type": "USER_EVAL_PARAM_BINARY"
 							}
@@ -165,7 +165,7 @@
 						},
 						"children": {
 							"evalparam-ep3": {
-								"nodeId": "evalparam-ep3", 
+								"nodeId": "evalparam-ep3",
 								"userNodeVo": null,
 								"type": "USER_EVAL_PARAM_RATING"
 							}

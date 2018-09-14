@@ -47,6 +47,7 @@
     "private": false,
     "license": "MIT",
     "dependencies": {
+        "@mindtickle/mt-ui-components": "git+ssh://git@github.com/MindTickle/mt-ui-components.git#master",
         "body-parser": "1.18.2",
         "chip": "0.0.5",
         "cookie-parser": "1.4.3",

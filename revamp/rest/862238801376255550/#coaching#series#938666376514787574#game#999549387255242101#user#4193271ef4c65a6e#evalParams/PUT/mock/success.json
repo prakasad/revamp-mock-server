@@ -3,7 +3,7 @@
 	"statusMsg": null,
 	"requestId": "1528711121335.rRoYJ.192.168.0.114",
 	"stackTrace": null,
-	"object":{
+	"object": {
 		"id": "ep-1",
 		"type": "USER_EVAL_PARAM_RATING",
 		"score": 400,

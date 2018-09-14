@@ -53,9 +53,9 @@
         		"approved": true,
         		"comment": "Blah",
         		"timestamp": 1517299078
-        	},
+        	}
         },
 		"createdAt": 1517398078,
-		"updatedAt": 1517398078,
+		"updatedAt": 1517398078
 	}
 }
