@@ -31,17 +31,17 @@
 			{
 				"type": 93,
 				"object": "999549387255242201",
-				"title": "Feedback"
+				"title": "Feedback1"
 			}
 		],
         "reviewDuration": {
-        	"hour": 2,
-        	"minute": 10,
+        	"hour": 20,
+        	"minute": 20,
         	"second": 0
         },
         "location": {
         	"latitude": 18.552755, 
-        	"longitude": 73.771882,
+        	"longitude": 73.771882
         },
         "learnerApprovals": {
         	"0": {
@@ -53,9 +53,9 @@
         		"approved": true,
         		"comment": "Blah",
         		"timestamp": 1517299078
-        	},
+        	}
         },
 		"createdAt": 1517398078,
-		"updatedAt": 1517398078,
+		"updatedAt": 1517398078
 	}
 }

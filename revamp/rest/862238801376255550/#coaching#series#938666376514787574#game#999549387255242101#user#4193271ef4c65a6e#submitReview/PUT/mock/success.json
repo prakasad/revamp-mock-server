@@ -42,7 +42,7 @@
 	        },
 	        "location": {
 	        	"latitude": 18.552755, 
-	        	"longitude": 73.771882,
+	        	"longitude": 73.771882
 	        },
 	        "learnerApprovals": {
 	        	"0": {
@@ -54,7 +54,7 @@
 	        		"approved": true,
 	        		"comment": "Blah",
 	        		"timestamp": 1517299078
-	        	},
+	        	}
 	        },
 			"createdAt": 1517398078,
 			"updatedAt": 1517398078

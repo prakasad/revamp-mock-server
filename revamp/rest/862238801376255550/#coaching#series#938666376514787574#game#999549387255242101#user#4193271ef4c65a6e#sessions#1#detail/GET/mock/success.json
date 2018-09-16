@@ -134,13 +134,13 @@
 							"nodeVo": null
 						},
 						"children": {
-							"evalparam-ep1": {
-								"nodeId": "evalparam-ep1",
+							"ep-1": {
+								"nodeId": "ep-1",
 								"userNodeVo": null,
 								"type": "USER_EVAL_PARAM_RATING"
 							},
-							"evalparam-ep2": {
-								"nodeId": "evalparam-ep2",
+							"ep-2": {
+								"nodeId": "ep-2",
 								"userNodeVo": null,
 								"type": "USER_EVAL_PARAM_BINARY"
 							}
@@ -164,15 +164,15 @@
 							"nodeVo": null
 						},
 						"children": {
-							"evalparam-ep3": {
-								"nodeId": "evalparam-ep3",
+							"ep-3": {
+								"nodeId": "ep-3",
 								"userNodeVo": null,
 								"type": "USER_EVAL_PARAM_RATING"
 							}
 						}
 					},
-					"evalparam-ep1": {
-						"id": "evalparam-ep1",
+					"ep-1": {
+						"id": "ep-1",
 						"type": "USER_EVAL_PARAM_RATING",
 						"score": 400,
 						"maxScore": 500,
@@ -184,7 +184,7 @@
 						"createdAt": 1517398078,
 						"updatedAt": 1517398078,
 						"refNode": {
-							"id": "evalparam-ep1",
+							"id": "ep-1",
 							"type": 1031,
 							"nodeVo": null
 						},
@@ -208,8 +208,8 @@
 							"isNA": false
 						}
 					},
-					"evalparam-ep2": {
-						"id": "evalparam-ep2",
+					"ep-2": {
+						"id": "ep-2",
 						"type": "USER_EVAL_PARAM_BINARY",
 						"score": 500,
 						"maxScore": 500,
@@ -221,7 +221,7 @@
 						"createdAt": 1517398078,
 						"updatedAt": 1517398078,
 						"refNode": {
-							"id": "evalparam-ep2",
+							"id": "ep-2",
 							"type": 1032,
 							"nodeVo": null
 						},
@@ -245,8 +245,8 @@
 							"isNA": false
 						}
 					},
-					"evalparam-ep3": {
-						"id": "evalparam-ep3",
+					"ep-3": {
+						"id": "ep-3",
 						"type": "USER_EVAL_PARAM_RATING",
 						"score": 400,
 						"maxScore": 500,
@@ -258,7 +258,7 @@
 						"createdAt": 1517398078,
 						"updatedAt": 1517398078,
 						"refNode": {
-							"id": "evalparam-ep3",
+							"id": "ep-3",
 							"type": 1031,
 							"nodeVo": null
 						},
