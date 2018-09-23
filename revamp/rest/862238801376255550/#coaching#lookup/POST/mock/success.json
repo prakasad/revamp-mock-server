@@ -1,0 +1,14 @@
+{
+	"ONE-ON-ONES": {
+		"pending": 10,
+		"closed": 5,
+		"reviewThisWeek": 7,
+		"overdue": null
+	},
+	"VIDEO_SUBMISSION" : {
+		"pending": 10,
+		"closed": 5,
+		"reviewThisWeek": 7,
+		"overdue": 3
+	}
+}
