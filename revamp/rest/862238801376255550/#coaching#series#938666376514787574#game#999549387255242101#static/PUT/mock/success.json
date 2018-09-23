@@ -4,7 +4,7 @@
 	"requestId": "1528487438185.XzzMK.192.168.0.114",
 	"object": {
 		"type": 21,
-		"mtentityType": 200,
+		"mtentityType": 10,
 		"name": "Key Messages111",
 		"desc": "Dr Tan is a general practitionar",
 		"createdBy": "4194ef2d43d7df97",
@@ -42,6 +42,11 @@
 			"assignmentRules": [
 				{
 					"REVIEWER_1": {
+						"type": "ADHOC",
+						"value": null
+					}
+				},{
+					"REVIEWER_2": {
 						"type": "ADHOC",
 						"value": null
 					}
