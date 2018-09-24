@@ -86,13 +86,13 @@
 					"id": "r1",
 					"sessionState": "UNSCHEDULED",
 					"index": "ONE",
-					"moduleState": "OPEN"
+					"moduleState": "ACTIVE"
 				},
 				{
 					"id": "r2",
 					"sessionState": "COMPLETED",
 					"index": "TWO",
-					"moduleState": "CLOSED"
+					"moduleState": "COMPLETED"
 				}
 			],
 			"numSessions": 11,
@@ -107,31 +107,31 @@
 					"id": "r1",
 					"sessionState": "UNSCHEDULED",
 					"index": "ONE",
-					"moduleState": "OPEN"
+					"moduleState": "ACTIVE"
 				},
 				{
 					"id": "r2",
 					"sessionState": "SCHEDULED",
 					"index": "TWO",
-					"moduleState": "CLOSED"
+					"moduleState": "COMPLETED"
 				},
 				{
 					"id": "r3",
 					"sessionState": "REVIEW_IN_PROGRESS",
 					"index": "THREE",
-					"moduleState": "OPEN"
+					"moduleState": "ACTIVE"
 				},
 				{
 					"id": "r4",
 					"sessionState": "COMPLETED",
 					"index": "FOUR",
-					"moduleState": "CLOSED"
+					"moduleState": "COMPLETED"
 				},
 				{
 					"id": "r5",
 					"sessionState": "COMPLETED",
 					"index": "FIVE",
-					"moduleState": "CLOSED"
+					"moduleState": "COMPLETED"
 				}
 			],
 			"numSessions": 12,
@@ -146,7 +146,7 @@
 					"id": "r1",
 					"sessionState": "UNSCHEDULED",
 					"index": "ONE",
-					"moduleState": "OPEN"
+					"moduleState": "ACTIVE"
 				}
 			],
 			"numSessions": 11,
@@ -161,13 +161,13 @@
 					"id": "r1",
 					"sessionState": "UNSCHEDULED",
 					"index": "ONE",
-					"moduleState": "OPEN"
+					"moduleState": "ACTIVE"
 				},
 				{
 					"id": "r3",
 					"sessionState": "SCHEDULED",
 					"index": "FIVE",
-					"moduleState": "OPEN"
+					"moduleState": "ACTIVE"
 				}
 			],
 			"numSessions": 13,
@@ -197,7 +197,7 @@
 					"id": "r1",
 					"sessionState": "UNSCHEDULED",
 					"index": "ONE",
-					"moduleState": "OPEN"
+					"moduleState": "ACTIVE"
 				}
 			],
 			"numSessions": 11,
@@ -212,7 +212,7 @@
 					"id": "r1",
 					"sessionState": "UNSCHEDULED",
 					"index": "ONE",
-					"moduleState": "OPEN"
+					"moduleState": "ACTIVE"
 				}
 			],
 			"numSessions": 11,
@@ -227,7 +227,7 @@
 					"id": "r1",
 					"sessionState": "UNSCHEDULED",
 					"index": "ONE",
-					"moduleState": "OPEN"
+					"moduleState": "ACTIVE"
 				}
 			],
 			"numSessions": 11,
@@ -242,7 +242,7 @@
 					"id": "r1",
 					"sessionState": "UNSCHEDULED",
 					"index": "ONE",
-					"moduleState": "OPEN"
+					"moduleState": "ACTIVE"
 				}
 			],
 			"numSessions": 11,
