@@ -83,13 +83,13 @@
 			"id": "lId1",
 			"reviewers": [
 				{
-					"rId": "r1",
+					"id": "r1",
 					"sessionState": "UNSCHEDULED",
 					"index": "ONE",
 					"moduleState": "OPEN"
 				},
 				{
-					"rId": "r2",
+					"id": "r2",
 					"sessionState": "COMPLETED",
 					"index": "TWO",
 					"moduleState": "CLOSED"
@@ -104,31 +104,31 @@
 			"id": "lId2",
 			"reviewers": [
 				{
-					"rId": "r1",
+					"id": "r1",
 					"sessionState": "UNSCHEDULED",
 					"index": "ONE",
 					"moduleState": "OPEN"
 				},
 				{
-					"rId": "r2",
+					"id": "r2",
 					"sessionState": "SCHEDULED",
 					"index": "TWO",
 					"moduleState": "CLOSED"
 				},
 				{
-					"rId": "r3",
+					"id": "r3",
 					"sessionState": "REVIEW_IN_PROGRESS",
 					"index": "THREE",
 					"moduleState": "OPEN"
 				},
 				{
-					"rId": "r4",
+					"id": "r4",
 					"sessionState": "COMPLETED",
 					"index": "FOUR",
 					"moduleState": "CLOSED"
 				},
 				{
-					"rId": "r5",
+					"id": "r5",
 					"sessionState": "COMPLETED",
 					"index": "FIVE",
 					"moduleState": "CLOSED"
@@ -143,7 +143,7 @@
 			"id": "lId3",
 			"reviewers": [
 				{
-					"rId": "r1",
+					"id": "r1",
 					"sessionState": "UNSCHEDULED",
 					"index": "ONE",
 					"moduleState": "OPEN"
@@ -158,13 +158,13 @@
 			"id": "lId4",
 			"reviewers": [
 				{
-					"rId": "r1",
+					"id": "r1",
 					"sessionState": "UNSCHEDULED",
 					"index": "ONE",
 					"moduleState": "OPEN"
 				},
 				{
-					"rId": "r3",
+					"id": "r3",
 					"sessionState": "SCHEDULED",
 					"index": "FIVE",
 					"moduleState": "OPEN"
@@ -194,7 +194,7 @@
 			"id": "lId7",
 			"reviewers": [
 				{
-					"rId": "r1",
+					"id": "r1",
 					"sessionState": "UNSCHEDULED",
 					"index": "ONE",
 					"moduleState": "OPEN"
@@ -209,7 +209,7 @@
 			"id": "lId8",
 			"reviewers": [
 				{
-					"rId": "r1",
+					"id": "r1",
 					"sessionState": "UNSCHEDULED",
 					"index": "ONE",
 					"moduleState": "OPEN"
@@ -224,7 +224,7 @@
 			"id": "lId9",
 			"reviewers": [
 				{
-					"rId": "r1",
+					"id": "r1",
 					"sessionState": "UNSCHEDULED",
 					"index": "ONE",
 					"moduleState": "OPEN"
@@ -239,7 +239,7 @@
 			"id": "lId10",
 			"reviewers": [
 				{
-					"rId": "r1",
+					"id": "r1",
 					"sessionState": "UNSCHEDULED",
 					"index": "ONE",
 					"moduleState": "OPEN"
