@@ -1,11 +1,11 @@
 {
-	"ONE-ON-ONES": {
+	"ONE_TO_ONE_COACHING": {
 		"pending": 10,
 		"closed": 5,
 		"reviewThisWeek": 7,
 		"overdue": null
 	},
-	"VIDEO_SUBMISSION" : {
+	"VOICE_OVER_PPT_COACHING" : {
 		"pending": 10,
 		"closed": 5,
 		"reviewThisWeek": 7,
