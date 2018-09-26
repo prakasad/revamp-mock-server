@@ -89,6 +89,54 @@
 						}
 					}
 				]
+			},
+			{
+				"entityId": "e2",
+				"children": [
+					{
+						"entityId": "e2",
+						"learnerId": "u3",
+						"completedSessions": 5,
+						"lastSession": {
+							"state": "REVIEWED",
+							"sessionNo": 1,
+							"score": 50,
+							"maxScore": 100,
+							"reviewedAt": 1537930467000,
+							"scheduledFrom": 1537930457000,
+							"scheduledTil": 1537930467000
+						},
+						"currentSession": {
+							"state": "SCHEDULED",
+							"sessionNo": 2,
+							"scheduledFrom": 1537930457000,
+							"scheduledTil": 1537930467000
+						}
+					},
+					{
+						"entityId": "e2",
+						"learnerId": "u4",
+						"completedSessions": 5,
+						"lastSession": {
+							"state": "REVIEWED",
+							"sessionNo": 1,
+							"score": 50,
+							"maxScore": 100,
+							"reviewedAt": 1537930467000,
+							"scheduledFrom": 1537930457000,
+							"scheduledTil": 1537930467000
+						},
+						"currentSession": {
+							"state": "REVIEWED",
+							"sessionNo": 1,
+							"score": 50,
+							"maxScore": 100,
+							"reviewedAt": 1537930467000,
+							"scheduledFrom": 1537930457000,
+							"scheduledTil": 1537930467000
+						}
+					}
+				]
 			}
 		]
 	}

@@ -1,18 +1,23 @@
 {
 	"searchQuery": "abc",
-	"dimensionName": "ENTITY",
+	"dimensionName": "LEARNER",
 	"filters": [
 		{
 			"dimensionName": "REVIEWER",
 			"values": [
-				"r1",
-				"r2"
+				"r1"
 			]
 		},
 		{
 			"dimensionName": "ENTITY_TYPE",
 			"values": [
 				"ONE_TO_ONE_COACHING"
+			]
+		},
+		{
+			"dimensionName": "ENTITY",
+			"values": [
+				"eId"
 			]
 		}
 	],

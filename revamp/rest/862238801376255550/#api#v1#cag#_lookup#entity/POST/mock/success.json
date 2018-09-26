@@ -1,0 +1,14 @@
+{
+	"data": [
+		{
+			"id": "eId",
+			"name": "Sales Meeting",
+			"entityType":"ONE_TO_ONE_COACHING"
+		},
+		{
+			"id": "eId2",
+			"name": "Shop visit",
+			"entityType":"ONE_TO_ONE_COACHING"
+		}
+	]
+}

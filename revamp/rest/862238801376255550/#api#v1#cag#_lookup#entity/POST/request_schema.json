@@ -1,0 +1,24 @@
+{
+	"searchQuery": "abc",
+	"dimensionName": "ENTITY",
+	"filters": [
+		{
+			"dimensionName": "REVIEWER",
+			"values": [
+				"r1"
+			]
+		},
+		{
+			"dimensionName": "ENTITY_TYPE",
+			"values": [
+				"ONE_TO_ONE_COACHING"
+			]
+		}
+	],
+	"pagination": {
+		"limit": 10,
+		"offset": 0,
+		"sortKey": "Name",
+		"sortDir": "ASC"
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"entityState": "ACTIVE",
+	"entityTypes": [
+		"ONE_ON_ONE"
+	],
+	"entityIds": [
+		"e1",
+		"e2"
+	],
+	"learnerIds": [
+		"l1",
+		"l2"
+	],
+	"groupBy": {
+		"name": "entityId",
+		"pagination": {
+			"limit": 10,
+			"offset": 0,
+			"sortKey": "reviewTime",
+			"sortDir": "DESC"
+		}
+	},
+	"pagination": {
+		"limit": 10,
+		"offset": 0,
+		"sortKey": "reviewTime",
+		"sortDir": "DESC"
+	}
+}
