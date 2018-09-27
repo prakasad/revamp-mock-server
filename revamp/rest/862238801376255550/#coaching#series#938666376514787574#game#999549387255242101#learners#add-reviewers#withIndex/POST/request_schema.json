@@ -1,0 +1,23 @@
+{
+	"data": {
+		"learnerId1": [
+			{
+				"reviewerId": "r1",
+				"index": "ONE",
+				"type": "AUTO"
+			},
+			{
+				"reviewerId": "r2",
+				"index": "THREE",
+				"type": "MANUAL"
+			}
+		],
+		"learnerId2": [
+			{
+				"reviewerId": "r3",
+				"index": "FOUR",
+				"type": "MANUAL"
+			}
+		]
+	}
+}
