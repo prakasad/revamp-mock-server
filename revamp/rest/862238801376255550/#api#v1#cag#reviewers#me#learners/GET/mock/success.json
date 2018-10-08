@@ -1,0 +1,22 @@
+{
+	"data": [
+		{
+			"id": "lId",
+			"name": "Voldy",
+			"email": "voldy@bellatrix.com",
+			"pic": "https://vignette.wikia.nocookie.net/harrypotter/images/6/6e/VoldemortHeadshot_DHP1.png/revision/latest?cb=20161203031453",
+			"state": {
+				"current": "ACTIVE"
+			}
+		},
+		{
+			"id": "lId",
+			"name": "Bellatrix",
+			"email": "bellatrix@voldy.com",
+			"pic": "https://vignette.wikia.nocookie.net/harrypotter/images/1/14/BellatrixLestrange.png/revision/latest?cb=20171101034243",
+			"state": {
+				"current": "ACTIVE"
+			}
+		}
+	]
+}

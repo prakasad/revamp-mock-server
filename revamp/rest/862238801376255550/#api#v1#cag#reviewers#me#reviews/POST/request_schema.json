@@ -1,0 +1,16 @@
+{
+	"entityState": "ACTIVE",
+	"entityIds": [
+		"e1"
+	],
+	"learnerIds": [
+		"l1",
+		"l2"
+	],
+	"pagination": {
+		"limit": 10,
+		"offset": 0,
+		"sortKey": "reviewTime",
+		"sortDir": "DESC"
+	}
+}

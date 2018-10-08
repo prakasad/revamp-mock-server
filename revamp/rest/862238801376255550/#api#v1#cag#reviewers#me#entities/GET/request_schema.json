@@ -3,6 +3,7 @@
 	"dimensionName": "ENTITY",
 	"filters": [
 		{
+			"reviewerIds":[],
 			"dimensionName": "REVIEWER",
 			"values": [
 				"r1"

@@ -1,0 +1,92 @@
+{
+	"meta": {
+		"users": {
+			"u1": {
+				"email": "afroz.alam@mindtickle.com",
+				"name": "Afroz Alam",
+				"state": {
+					"current": "ACTIVE"
+				}
+			},
+			"u2": {
+				"email": "afroz.alam1@mindtickle.com",
+				"name": "Afroz Alam2",
+				"state": {
+					"current": "ACTIVE"
+				}
+			},
+			"u3": {
+				"email": "afroz.alam3@mindtickle.com",
+				"name": "Afroz Alam3",
+				"state": {
+					"current": "ACTIVE"
+				}
+			},
+			"u4": {
+				"email": "afroz.alam4@mindtickle.com",
+				"name": "Afroz Alam4",
+				"state": {
+					"current": "ACTIVE"
+				}
+			}
+		},
+		"entities": {
+			"e1": {
+				"name": "Shop Visit"
+			},
+			"e2": {
+				"name": "Shop Visit 2"
+			}
+		}
+	},
+	"data": [
+		{
+			"entityId": "e1",
+			"reviews": [
+				{
+					"entityId": "e1",
+					"learnerId": "u1",
+					"completedSessions": 5,
+					"lastSession": {
+						"state": "REVIEWED",
+						"sessionNo": 1,
+						"score": 50,
+						"maxScore": 100,
+						"reviewedAt": 1537930467000,
+						"scheduledFrom": 1537930457000,
+						"scheduledTil": 1537930467000
+					},
+					"currentSession": {
+						"state": "SCHEDULED",
+						"sessionNo": 2,
+						"scheduledFrom": 1537930457000,
+						"scheduledTil": 1537930467000
+					}
+				},
+				{
+					"entityId": "e1",
+					"learnerId": "u2",
+					"completedSessions": 5,
+					"lastSession": {
+						"state": "REVIEWED",
+						"sessionNo": 1,
+						"score": 50,
+						"maxScore": 100,
+						"reviewedAt": 1537930467000,
+						"scheduledFrom": 1537930457000,
+						"scheduledTil": 1537930467000
+					},
+					"currentSession": {
+						"state": "REVIEWED",
+						"sessionNo": 1,
+						"score": 50,
+						"maxScore": 100,
+						"reviewedAt": 1537930467000,
+						"scheduledFrom": 1537930457000,
+						"scheduledTil": 1537930467000
+					}
+				}
+			]
+		}
+	]
+}
