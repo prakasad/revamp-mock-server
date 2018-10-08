@@ -11,16 +11,11 @@
 		"l1",
 		"l2"
 	],
-	"groupBy": {
-		"name": "entityId",
-		"pagination": {
-			"limit": 10,
-			"offset": 0,
-			"sortKey": "reviewTime",
-			"sortDir": "DESC"
-		}
+	"entitiesPagination": {
+		"limit": 10,
+		"offset": 0
 	},
-	"pagination": {
+	"reviewsPagination" : {
 		"limit": 10,
 		"offset": 0,
 		"sortKey": "reviewTime",
